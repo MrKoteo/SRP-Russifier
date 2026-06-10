@@ -402,3 +402,45 @@ tootip.srparasites.weaponr.20=Продолжайте натягивать его
 
 tootip.srparasites.weaponr.100=Тебе больше не спрятаться...
 tootip.srparasites.weaponr.200=Тебе больше не спрятаться...
+
+
+/////
+
+
+entity.srparasites.rooter_si.name=Корневик I
+entity.srparasites.rooter_sii.name=Корневик II
+entity.srparasites.rooter_siii.name=Корневик III
+entity.srparasites.rooter_siv.name=Корневик IV
+item.srparasites.itemmobspawner_leem.name=Призыв Корневика I
+item.srparasites.itemmobspawner_leemsii.name=Призыв Корневика II
+item.srparasites.itemmobspawner_leemsiii.name=Призыв Корневика III
+item.srparasites.itemmobspawner_leemsiv.name=Призыв Корневика IV
+item.srparasites.itemdevolve.name=Жезл деградации
+item.srparasites.weapon_maul.name=§eЖивая кувалда
+item.srparasites.weapon_maul_sentient.name=§6Разумная великая кувалда
+item.srparasites.weapon_lance.name=§eЖивое копье
+item.srparasites.weapon_lance_sentient.name=§6Разумное великое копье
+mob_effect.srparasites:pivot=§eСтержень
+splash_potion.effect.srparasites:pivot=Взрывное зелье §eСтержня
+potion.effect.srparasites:pivot=Зелье §eСтержня
+lingering_potion.effect.srparasites:pivot=Туманное зелье §eСтержня
+tipped_arrow.effect.srparasites:pivot=Стрела §eСтержня
+tootip.srparasites.weaponm.9=§fРезультат преобразования частей тел различных паразитов в оружие. Внутри теплится пламя жизни.
+tootip.srparasites.weaponm.90=§cУбей одного§f — убей многих.
+tooltip.tile.srparasites.evolutionlure=Приостанавливает очки эволюции примерно на %s секунд
+subtitles.carrierdeath=Переносчик погибает
+subtitles.carrierliving=Переносчик булькает
+subtitles.carrierhurt=Переносчик рычит
+subtitles.adabolsterdeath=Адаптированный Болстер умирает
+subtitles.adabolsterliving=Адаптированный Болстер рычит
+subtitles.adabolsterhurt=Адаптированный Болстер скалится
+subtitles.monarchdeath=Монарх вскрикивает
+subtitles.monarchliving=Монарх зовёт
+subtitles.monarchhurt=Монарх визжит
+subtitles.marauderdeath=Мародер погибает
+subtitles.marauderliving=Мародер булькает
+subtitles.marauderhurt=Мародер рычит
+subtitles.verminliving=Вредитель каркает
+subtitles.verminhurt=Вредитель кричит
+subtitles.vermindeath=Вредитель погибает
+subtitles.rupterdies=Руптер умирает

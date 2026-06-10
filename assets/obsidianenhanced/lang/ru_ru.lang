@@ -1,0 +1,13 @@
+tile.enhanced_stone_slab.name=Каменная плита (Улучшенный обсидиан)
+tile.enhanced_stone_bricks_mossy.name=Замшелый каменный кирпич (Улучшенный обсидиан)
+tile.obsidian_stone_bricks_alternateglint.name=Каменный кирпич (Обсидиан, альт.)
+tile.enhanced_stone_brick_slab_alt.name=Плита из каменного кирпича (Обсидиан, альт.)
+itemGroup.tabobsidian_enhanced_creative_tab=Блоки улучшенного обсидиана
+tile.stone_brick_wall.name=Стена из каменного кирпича
+tile.obsidian_enhanced_stone_brick_noglint.name=Обсидиановый кирпич (Обсидиан, без свечения)
+tile.obsidian_enchaned_stone_bricks.name=Каменный кирпич (Улучшенный обсидиан)
+tile.enhanced_cracked_stone_bricks.name=Треснувший каменный кирпич (Улучшенный обсидиан)
+tile.multistage_break_block.name=Блок многоступенчатого разрушения
+tile.stone_brick_stairsalt.name=Ступени из каменного кирпича (Обсидиан, альт.)
+tile.enhanced_stone_brick_stairs.name=Ступени из каменного кирпича (Улучшенный обсидиан)
+tile.enhanced_chiselededed_stone_bricks.name=Резной каменный кирпич (Улучшенный обсидиан)

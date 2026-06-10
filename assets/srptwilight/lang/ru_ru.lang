@@ -1,0 +1,183 @@
+# Entities
+
+entity.srparasites.nymphlin.name=Нимфлин
+entity.srparasites.slougher.name=Слагер
+entity.srparasites.blender.name=Блендер
+entity.srparasites.leafborn.name=Листорожденный
+entity.srparasites.crinkler.name=Кринклер
+entity.srparasites.writher.name=Извиватель
+entity.srparasites.carrier_blossom.name=Цветущий переносчик
+
+entity.srparasites.magicking_flesh.name=Магическая плоть
+entity.srparasites.tomb.name=Гробница
+entity.srparasites.tombii.name=Пучок
+
+entity.srparasites.sim_deer.name=Ассимилированный олень
+entity.srparasites.sim_deerhead.name=Ходячая голова
+entity.srparasites.sim_bighorn.name=Ассимилированный толсторог
+entity.srparasites.sim_bighornhead.name=Ходячая голова
+entity.srparasites.sim_boar.name=Ассимилированный вепрь
+entity.srparasites.sim_boarhead.name=Ходячая голова
+entity.srparasites.sim_dwarf.name=Ассимилированный карликовый кролик
+entity.srparasites.sim_dwarfhead.name=Ходячая голова
+entity.srparasites.sim_squirrel.name=Ассимилированная белка
+entity.srparasites.sim_squirrelhead.name=Ходячая голова
+entity.srparasites.sim_kobold.name=Ассимилированный кобольд
+entity.srparasites.sim_koboldhead.name=Ходячая голова
+entity.srparasites.sim_goblin.name=Ассимилированный гоблин
+entity.srparasites.sim_goblinhead.name=Ходячая голова
+
+entity.srparasites.fer_deer.name=Одичавший олень
+entity.srparasites.fer_deerhead.name=Блуждающая голова
+entity.srparasites.fer_bighorn.name=Одичавший толсторог
+entity.srparasites.fer_bighornhead.name=Блуждающая голова
+entity.srparasites.fer_boar.name=Одичавший вепрь
+entity.srparasites.fer_boarhead.name=Блуждающая голова
+entity.srparasites.fer_dwarf.name=Одичавший карликовый кролик
+entity.srparasites.fer_dwarfhead.name=Блуждающая голова
+entity.srparasites.fer_squirrel.name=Одичавшая белка
+entity.srparasites.fer_squirrelhead.name=Блуждающая голова
+entity.srparasites.fer_kobold.name=Одичавший кобольд
+entity.srparasites.fer_koboldhead.name=Блуждающая голова
+entity.srparasites.fer_goblin.name=Одичавший гоблин
+entity.srparasites.fer_goblinhead.name=Блуждающая голова
+
+entity.srparasites.mar_deer.name=Ассимара олень
+entity.srparasites.mar_deerhead.name=Мерцающая голова
+entity.srparasites.mar_bighorn.name=Ассимара толсторог
+entity.srparasites.mar_bighornhead.name=Мерцающая голова
+entity.srparasites.mar_boar.name=Ассимара вепрь
+entity.srparasites.mar_boarhead.name=Мерцающая голова
+entity.srparasites.mar_dwarf.name=Ассимара карликовый кролик
+entity.srparasites.mar_dwarfhead.name=Мерцающая голова
+entity.srparasites.mar_squirrel.name=Ассимара белка
+entity.srparasites.mar_squirrelhead.name=Мерцающая голова
+entity.srparasites.mar_kobold.name=Ассимара кобольд
+entity.srparasites.mar_koboldhead.name=Мерцающая голова
+entity.srparasites.mar_goblin.name=Ассимара гоблин
+entity.srparasites.mar_goblinhead.name=Мерцающая голова
+
+entity.srparasites.hi_carminite.name=Угнанный карминитный голем
+entity.srparasites.hi_ice.name=Угнанное ледяное ядро
+entity.srparasites.hi_druid.name=Угнанный друид
+entity.srparasites.hi_lich.name=Угнанный лич
+entity.srparasites.hi_knight.name=Угнанный призрачный рыцарь
+
+entity.srparasites.ju_carminite.name=Хиджисака карминитный голем
+entity.srparasites.ju_ice.name=Хиджисака ледяное ядро
+entity.srparasites.ju_druid.name=Хиджисака друид
+entity.srparasites.ju_lich.name=Хиджисака лич
+entity.srparasites.ju_knight.name=Хиджисака призрачный рыцарь
+
+entity.srparasites.pest.name=Вредитель
+entity.srparasites.orchestra.name=Оркестр
+entity.srparasites.dike.name=Дайка
+
+# Creative Tab
+
+itemGroup.srptwilight.general=Scape and Run: Паразиты. Сумерки
+
+# Items
+item.srptwilight.kni_minecart.name=Вагонетка из угнанного рыцарского металла
+item.srptwilight.quench_kni_minecart.name=Вагонетка из угнанного рыцарского металла с закалкой
+item.srptwilight.purifier_kni_minecart.name=Вагонетка из угнанного рыцарского металла с очистителем
+item.srptwilight.carrier_kni_minecart.name=Вагонетка из угнанного рыцарского металла с переносчиком
+item.srptwilight.beckon_kni_minecart.name=Вагонетка из угнанного рыцарского металла с манком
+item.srptwilight.dispatcher_kni_minecart.name=Вагонетка из угнанного рыцарского металла с диспетчером
+item.srptwilight.rooter_kni_minecart.name=Вагонетка из угнанного рыцарского металла с корневиком
+item.srptwilight.biome_kni_minecart.name=Вагонетка из угнанного рыцарского металла с биомом
+item.srptwilight.colony_kni_minecart.name=Вагонетка из угнанного рыцарского металла с колонией
+item.srptwilight.outpost_kni_minecart.name=Вагонетка из угнанного рыцарского металла с аванпостом
+item.srptwilight.pivot_kni_minecart.name=Вагонетка из угнанного рыцарского металла со стержнем
+item.srptwilight.vector_kni_minecart.name=Вагонетка из угнанного рыцарского металла с вектором
+
+item.srptwilight.ada_chilopoda_drop.name=§bЧелюсть хилоподы
+item.srptwilight.ada_klimater_drop.name=§bЯзычок климатера
+item.srptwilight.kni_ingot.name=§eУгнанный рыцарский металл
+
+item.srptwilight.kni_sword.name=§bМеч из угнанного рыцарского металла
+item.srptwilight.kni_shovel.name=§bЛопата из угнанного рыцарского металла
+item.srptwilight.kni_pickaxe.name=§bКирка из угнанного рыцарского металла
+item.srptwilight.kni_hoe.name=§bМотыга из угнанного рыцарского металла
+item.srptwilight.kni_axe.name=§bТопор из угнанного рыцарского металла
+item.srptwilight.kni_shears.name=§bНожницы из угнанного рыцарского металла
+
+item.srptwilight.kni_helmet.name=§eШлем из угнанного рыцарского металла
+item.srptwilight.kni_chestplate.name=§eНагрудник из угнанного рыцарского металла
+item.srptwilight.kni_leggings.name=§eПоножи из угнанного рыцарского металла
+item.srptwilight.kni_boots.name=§eБотинки из угнанного рыцарского металла
+
+item.srptwilight.itemmobspawner_xoryumu.name=Яйцо призыва Нимфлина
+item.srptwilight.itemmobspawner_xoryumu.name=Яйцо призыва Юму
+
+item.srptwilight.souvenir_nymphlin.name=§aСувенир нимфлина
+item.srptwilight.souvenir_slougher.name=§aСувенир слагера
+item.srptwilight.souvenir_blender.name=§aСувенир блендера
+item.srptwilight.souvenir_leafborn.name=§aСувенир листорожденного
+item.srptwilight.souvenir_crinkler.name=§aСувенир кринклера
+item.srptwilight.souvenir_writher.name=§aСувенир извивателя
+
+# Blocks
+
+tile.srptwilight.miniature_biome.name=Миниатюрный биом
+
+tile.srparasites.tunnel_nymphlin.name=Тоннель нимфлина
+tile.srparasites.tunnel_leafborn.name=Тоннель листорожденного
+
+tooltip.srptwilight.adadrop.chilopoda=Ужасающе острая челюсть, извлечённая из тела §6Хилоподы§f.
+tooltip.srptwilight.adadrop.klimater=Волшебный язычок, извлечённый из тела §6Климатера§f.
+
+# Subtitles
+
+subtitles.assimdeerliving=Искажённое мычание
+subtitles.assimdeerhurt=Ассимилированный олень хрюкает
+subtitles.assimdeerdeath=Ассимилированный олень умирает
+subtitles.assimbighornliving=Искажённое блеяние
+subtitles.assimbighornhurt=Ассимилированный толсторог блеет
+subtitles.assimbighorndeath=Ассимилированный толсторог умирает
+subtitles.assimboarliving=Искажённое хрюканье
+subtitles.assimboarhurt=Ассимилированный вепрь визжит
+subtitles.assimboardeath=Ассимилированный вепрь умирает
+subtitles.hicarminiteliving=Искажённый треск
+subtitles.hicarminitehurt=Угнанный карминитный голем ломается
+subtitles.hicarminitedeath=Угнанный карминитный голем погибает
+subtitles.adachilopodaliving=Адаптированная хилопода рычит
+subtitles.adachilopodahurt=Адаптированная хилопода скалится
+subtitles.adachilopodadeath=Адаптированная хилопода шипит
+subtitles.chilopodaliving=Примитивная хилопода ревёт
+subtitles.chilopodahurt=Примитивная хилопода кричит
+subtitles.chilopodadeath=Примитивная хилопода погибает
+
+#INBORN
+lore.srparasites.nymphlin=§lЭпитет:§r Sim §l|§r §oНимфлин
+lore.srparasites.slougher=§lЭпитет:§r Sim §l|§r §oСлагер
+lore.srparasites.blender=§lЭпитет:§r Sim §l|§r §oБлендер
+lore.srparasites.leafborn=§lЭпитет:§r Sim §l|§r §oЛисторожденный
+lore.srparasites.crinkler=§lЭпитет:§r Sim §l|§r §oКринклер
+lore.srparasites.writher=§lЭпитет:§r Sim §l|§r §oИзвиватель
+
+#ASSIMILATED
+lore.srparasites.sim_deer=§lЭпитет:§r Sim §l|§r §oХудые конечности всё ещё дрожат, взгляд пуст. Вздрагивает от теней, потом забывает, почему убежало.
+lore.srparasites.sim_boar=§lЭпитет:§r Sim §l|§r §oСпокойная оболочка, прожорливая сердцевина. Всё ещё кабан, хотя атакует с бессмысленным голодом. Ничто иное, как просто биомасса.
+lore.srparasites.sim_dwarf=§lЭпитет:§r Sim §l|§r §oНелепо круглый, нелепо мягкий. Пушистый шарик мяса, всё ещё подёргивающий крошечным носом. Прыгает с механической медлительностью, каждый отскок разбрасывает гниль, словно пыльцу. Когда настроение подхватывает, катится чаще, чем прыгает.
+
+#MOVING_HEADS
+lore.srparasites.sim_deerhead=§lЭпитет:§r Desim §l|§r §oИзящный череп, волочимый собственными рогами, цепляющийся за корни и камни. Будет искать любую кучу мяса, чтобы угнать.
+lore.srparasites.sim_boarhead=§lЭпитет:§r Desim §l|§r §oШмыгающая масса, привязанная мясными тяжами, клыки волочатся по грязи. Всё ещё хрюкает. Будет искать любую кучу мяса, чтобы угнать.
+lore.srparasites.sim_dwarfhead=§lЭпитет:§r Desim §l|§r §oМилующая кроличья голова, всё ещё очаровательная, всё ещё подёргивающая носом. Теперь восседает на слишком многих тонких паучьих ногах, снующих по стенам и потолкам. Пушистые следы гнили отмечают её путь. Будет искать любую кучу мяса, чтобы угнать.
+
+#FERAL
+lore.srparasites.fer_deer=§lЭпитет:§r Fer §l|§r §oРога раздирают и кромсают. Мчится с бешеной скоростью, топча то, что не может пронзить.
+lore.srparasites.fer_boar=§lЭпитет:§r Fer §l|§r §oГротескный заряд, визжащий от голода. Клыки раздирают и кромсают. Топчет то, что не может пронзить, оставляя лишь грязь и кровь.
+lore.srparasites.fer_dwarf=§lЭпитет:§r Fer §l|§r §oСлишком милый, чтобы убегать. Слишком голодный, чтобы сопротивляться. Сначала покусывает кончики пальцев, затем всю руку, затем лицо, оставаясь при этом очаровательным. Его щёки надуваются с каждым укусом, сохраняя не пищу, а память о твоём страхе.
+
+#MOTIVATING_HEAD
+lore.srparasites.fer_dwarfhead=§lЭпитет:§r Fer §l|§r §oМаленький, яростный, обманчиво быстрый. Кусает с силой, которую его размер не должен позволять. Будет искать любую кучу мяса, чтобы угнать.
+
+#ASSIMARA
+lore.srparasites.mar_deer=§lЭпитет:§r Mar §l|§r §oВ его теле нет ничего логичного. Рога растут сквозь собственный череп, ветвясь внутрь. Движется с тревожной грацией, каждый шаг оставляет гниль там, где ступает.
+lore.srparasites.mar_boar=§lЭпитет:§r Mar §l|§r §oВ его теле нет ничего логичного. Клыки растут внутрь, наружу, сквозь собственный череп. Роет землю не в поисках трюфелей, а ради костного мозга.
+lore.srparasites.mar_dwarf=§lЭпитет:§r Mar §l|§r §oВ его теле нет ничего логичного. Оно должно быть добычей. Оно должно быть безвредным. Слишком мягкое, чтобы держать форму, но оно держит форму. Слишком маленькое, чтобы угрожать, но угрожает. Что-то внутри этого мягкого пухлого кроличьего тела шепчет, что тебе всегда было суждено закончить здесь, маленьким, мягким и круглым, как и оно. Его мех — не мех. Его тепло — не тепло. Когда оно дёргает носом, реальность дёргается вместе с ним.
+
+#MYSTED_HEAD
+lore.srparasites.mar_dwarfhead=§lЭпитет:§r Mar §l|§r §oВ его теле нет ничего логичного. Оно моргает сразу всеми четырьмя ртами.
