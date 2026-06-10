@@ -1,0 +1,13 @@
+{
+  "name": "Внутренности Фабрики",
+  "icon": "srpcotesia:factory_drop",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:factory_drop",
+      "text": "Подобно Маякам и Исполнителям, ткань Фабрик и Бродяг также можно собрать после их гибели. Однако эта плоть довольно нестабильна."
+    }
+  ]
+}

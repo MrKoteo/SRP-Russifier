@@ -1,0 +1,20 @@
+#Entity
+entity.srpquark.hi_skeletonpirate.name=Угнанный Пират
+entity.srpquark.hi_skeletonashen.name=Угнанный Пепельный
+entity.srpquark.sim_dweller.name=Ассимилированный Обитатель
+entity.srpquark.sim_archaeologist.name=Ассимилированный Археолог
+entity.srpquark.sim_stoneling.name=Ассимилированный Камнеподобный
+entity.srpquark.sim_crab.name=Ассимилированный Краб
+entity.srpquark.sim_frog.name=Ассимилированная Лягушка
+#End
+#Items
+item.srpquark.itemmobspawner_hiskeletonpirate.name=Призыв Угнанного Пирата
+item.srpquark.itemmobspawner_hiskeletonashen.name=Призыв Угнанного Пепельного
+item.srpquark.itemmobspawner_infdweller.name=Призыв Ассимилированного Обитателя
+item.srpquark.itemmobspawner_infarchaeologist.name=Призыв Ассимилированного Археолога
+item.srpquark.itemmobspawner_infstoneling.name=Призыв Ассимилированного Камнеподобного
+item.srpquark.itemmobspawner_infcrab.name=Призыв Ассимилированного Краба
+item.srpquark.itemmobspawner_inffrog.name=Призыв Ассимилированной Лягушки
+#End
+#Tooltip
+#End

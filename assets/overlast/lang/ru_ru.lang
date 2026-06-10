@@ -1,0 +1,16 @@
+key.overlast=Клавиша OverLast
+key.switchhud=Переключить HUD
+overlast.client=Клиент
+overlast.client.tooltip=Только клиентские настройки
+config.overlast:client.barPos=Позиция панелей?
+config.overlast:client.barPos.tooltip=Укажите, где разместить панели интерфейса. Можно установить любое из следующих значений:\nверхний левый\nверхний правый\nсредний левый\nсредний правый\nнижний левый\nнижний правый\nВключая пробел. Если ошибётесь, по умолчанию будет средний правый.
+config.overlast:client.Xoffset=Смещение панели UI по горизонтали
+config.overlast:client.Xoffset.tooltip=При значении больше 0 панель UI сместится вправо,\nа при значении меньше 0 — влево.
+config.overlast:client.Yoffset=Смещение панели UI по вертикали
+config.overlast:client.Yoffset.tooltip=При значении больше 0 панель UI сместится вниз,\nа при значении меньше 0 — вверх.
+overlast.mechanics=Механики
+overlast.mechanics.tooltip=Настройки основных механик игрока
+config.overlast:mechanics.showRequestDirtyClock=Механизм отображения шкалы эволюции
+config.overlast:mechanics.showRequestDirtyClock.tooltip=Если установлено значение true, шкала естественной эволюции будет отображаться только при удержании грязных часов.
+config.overlast:mechanics.hideUI=Скрыть интерфейс эволюции
+config.overlast:mechanics.hideUI.tooltip=Скрывает шкалу эволюции для указанной фазы (например: -1,0,3)

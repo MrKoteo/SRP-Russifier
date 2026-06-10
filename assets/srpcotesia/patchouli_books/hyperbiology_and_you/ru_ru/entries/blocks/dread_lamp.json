@@ -1,0 +1,17 @@
+{
+  "name": "Лампа Ужаса",
+  "icon": "srpcotesia:dread_lamp",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:dread_lamp",
+      "text": "Лампы Ужаса - это следующая ступень развития после Мрачного Факела, сохраняющая все его свойства.$(br)Несмотря на внешнее сходство с Хитином, они не так прочны как сам Хитин."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:dread_lamp"
+    }
+  ]
+}

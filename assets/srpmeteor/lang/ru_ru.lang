@@ -1,0 +1,15 @@
+#Entity
+entity.srpmeteor.parasite_meteorite.name=Метеорит
+#End
+#Block
+tile.srpmeteor.meteorite.name=§cМетеорит
+tile.srpmeteor.meteorite_core.name=§cЯдро Метеорита
+#End
+#Items
+item.srpmeteor.meteor_locator.name=Локатор Метеоритов
+#End
+#ToolTip
+tooltip.srpmeteor.meteor_locator.x.description=X:
+tooltip.srpmeteor.meteor_locator.z.description=Z:
+tooltip.srpmeteor.meteor_locator.worldid.description=Мир:
+#End

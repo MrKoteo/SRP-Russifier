@@ -1,0 +1,17 @@
+{
+  "name": "Истлевшие Сегменты",
+  "icon": "srpcotesia:moldered_segments",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:moldered_segments",
+      "text": "$(#630000)Этот предмет используется для создания $(l:items/masticator)Измельчителя$()$(#630000). Просто передайте его Маяку стадии I, чтобы создать его."
+    },
+    {
+      "type": "text",
+      "text": "$(#630000)Я должен сделать это с Живым Ядром и Фабрикой."
+    }
+  ]
+}

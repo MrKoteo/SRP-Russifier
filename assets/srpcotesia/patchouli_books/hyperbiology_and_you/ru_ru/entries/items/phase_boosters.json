@@ -1,0 +1,45 @@
+{
+  "name": "Ускорители Фазы",
+  "icon": "srpcotesia:booster_si",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:booster_si",
+      "flag": "srpcotesia:global_booster",
+      "text": "$(#630000)Ускорители Фазы - это специальные экипируемые предметы, которые умножают прирост Очков Эволюции для мира."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:booster_si",
+      "flag": "!srpcotesia:global_booster",
+      "text": "$(#630000)Ускорители Фазы - это специальные экипируемые предметы, которые умножают прирост Очков Эволюции для владельца."
+    },
+    {
+      "type": "text",
+      "text": "$(#630000)Ускорители Фазы разделены на четыре стадии, подобно Паразиту уровня Нексуса. Каждый требует два предыдущих уровня для крафта и пассивно расходует Опыт пользователя.$(br)Для них есть отдельный слот в меню Адаптации, открываемый кнопкой $(k:srpcotesia.mallmenu)."
+    },
+    {
+      "type": "crafting",
+      "title": "Ускоритель Фазы стадии I",
+      "recipe": "srpcotesia:booster_si"
+    },
+    {
+      "type": "crafting",
+      "title": "Ускоритель Фазы стадии II",
+      "recipe": "srpcotesia:booster_sii"
+    },
+    {
+      "type": "crafting",
+      "title": "Ускоритель Фазы стадии III",
+      "recipe": "srpcotesia:booster_siii"
+    },
+    {
+      "type": "crafting",
+      "title": "Ускоритель Фазы стадии IV",
+      "recipe": "srpcotesia:booster_siv"
+    }
+  ]
+}

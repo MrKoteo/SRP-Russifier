@@ -1,0 +1,17 @@
+{
+  "name": "Электрорецептор",
+  "icon": "srpcotesia:electroreceptor",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:electroreceptor",
+      "text": "$(#630000)Электрорецептор - это используемый предмет, который показывает счётчик убийств любого Паразита, на котором его используют."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:electroreceptor"
+    }
+  ]
+}

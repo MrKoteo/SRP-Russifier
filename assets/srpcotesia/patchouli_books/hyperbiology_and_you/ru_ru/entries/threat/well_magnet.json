@@ -1,0 +1,19 @@
+{
+  "name": "Магнит Колодца",
+  "icon": "srpcotesia:well_magnet",
+  "category": "threat",
+  "flag": "srpcotesia:enhanced_mobs",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:well_magnet",
+      "text": "$(#630000)Используя Бессердечные Чипы, мне удалось создать устройство, которое может принудительно переместить Колодец ближе к моему местоположению. При использовании Колодец будет телепортирован в радиусе 100 блоков."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:well_magnet",
+      "text": "Чтобы получить Рудимент Иссушителя, мне придётся убить Улучшенного Иссушителя."
+    }
+  ]
+}

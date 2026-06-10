@@ -1,0 +1,11 @@
+{
+  "name": "Разрежение",
+  "icon": "minecraft:enchanted_book",
+  "category": "enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#630000)Применяется к $(l:items/masticator)Измельчителю$()$(#630000). Уменьшает шанс потребления Зловонной 'Канистры' на 10% за уровень, до 50%."
+    }
+  ]
+}

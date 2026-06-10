@@ -1,0 +1,17 @@
+{
+  "name": "Эффект Отвара: Повтор",
+  "icon": "minecraft:nether_star",
+  "category": "osmosis_brewing",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#630000)Повторяет эффект, непосредственно предшествующий ему в списке эффектов Мешка."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "minecraft:nether_star",
+      "text": "$(#630000)Создаётся с использованием Звезды Нижнего мира, выпадающей из Иссушителя."
+    }
+  ]
+}

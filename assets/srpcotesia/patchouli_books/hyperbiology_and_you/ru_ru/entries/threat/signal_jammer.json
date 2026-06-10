@@ -1,0 +1,18 @@
+{
+  "name": "Глушитель Сигнала",
+  "icon": "srpcotesia:signal_jammer",
+  "category": "threat",
+  "flag": "srpcotesia:enhanced_mobs",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:signal_jammer",
+      "text": "$(#630000)Используя Бессердечные Чипы, мне удалось создать устройство, которое отключает Критические Удары Усиленных Существ на 10 секунд. Эффект отмечается синими частицами, похожими на частицы Пылинки."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:signal_jammer"
+    }
+  ]
+}

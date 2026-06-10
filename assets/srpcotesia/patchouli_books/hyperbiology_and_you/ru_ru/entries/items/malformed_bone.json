@@ -1,0 +1,21 @@
+{
+  "name": "Деформированная Кость",
+  "icon": "srpcotesia:malformed_bone",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:malformed_bone",
+      "text": "$(#630000)Деформированная Кость - это материал для клинка Гуаньдао, создающийся из Примитивного Паразита. Создаваемый им клинок может воздействовать только на Паразитов до уровня Адаптировавшихся."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:malformed_bone"
+    },
+    {
+      "type": "text",
+      "text": "$(#630000)Этот материал заменяется Реформированной Костью."
+    }
+  ]
+}

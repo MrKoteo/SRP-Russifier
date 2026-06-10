@@ -1,0 +1,16 @@
+{
+  "name": "Защита Улья",
+  "icon": "minecraft:enchanted_book",
+  "category": "enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#630000)Может быть применено к $(l:items/guandao)Гуаньдао$()$(#630000). Эмулирует зачарование Защиты для обычной брони."
+    },
+    {
+      "type": "text",
+      "flag": "mod:somanyenchantments",
+      "text": "$(#630000)Также существует Продвинутая версия, эмулирующая Продвинутую Защиту."
+    }
+  ]
+}

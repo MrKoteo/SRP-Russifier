@@ -1,0 +1,13 @@
+{
+  "name": "Ужасающее Щупальце",
+  "icon": "srpcotesia:mortifying_tentacle",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:mortifying_tentacle",
+      "text": "$(#630000)Ужасающее Щупальце - это особый ингредиент для крафта, создаваемый из образцов, вырезаемых с Фабрики, привязанной к Выдающемуся Паразиту с щупальцами, таким как Фантом или Призрак."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cartilage",
+  "icon": "srpcotesia:cartilage",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:cartilage",
+      "text": "Хрящ - это губчатый блок, который можно создать из образцов Паразитов и блоков, поглощённых Биомом. Что интересно, он не распространяет Биом, несмотря на своё происхождение. Вместо этого, Хрящ испускает споры, которые могут вызывать Кровотечение у ближайших Не-паразитов."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:cartilage_mud",
+      "recipe2": "srpcotesia:cartilage_soil"
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:cartilage_stone"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Наколенник Линчевателя",
+  "icon": "srpcotesia:vigilante_kneecap",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:vigilante_kneecap",
+      "text": "$(#630000)Я создал Наколенник Линчевателя. Мне нечего добавить, он идеален."
+    },
+    {
+      "type": "text",
+      "text": "$(#630000)Вы используете Фабрику Линчевателя, чтобы сделать это, как и с другими образцами паразитов. Он используется для $(l:items/vigilant_bone)Бдительной Кости$()$(#630000)."
+    }
+  ]
+}

@@ -1,0 +1,1125 @@
+effect.antibodies=Антитела
+splash_potion.effect.antibodies=Взрывное зелье Антител
+potion.effect.antibodies=Зелье Антител
+lingering_potion.effect.antibodies=Туманное зелье Антител
+tipped_arrow.effect.antibodies=Стрела Антител
+
+effect.latched=§7Захвачен
+splash_potion.effect.latched=Взрывное зелье §7Захвата
+potion.effect.latched=Зелье §7Захвата
+lingering_potion.effect.latched=Туманное зелье §7Захвата
+tipped_arrow.effect.latched=Стрела §7Захвата
+
+effect.trauma=§7Травма
+splash_potion.effect.trauma=Взрывное зелье...
+potion.effect.trauma=Зелье...
+lingering_potion.effect.trauma=Туманное зелье...
+tipped_arrow.effect.trauma=Стрела...
+
+effect.recuperation=§dОздоровление
+splash_potion.effect.recuperation=Взрывное зелье §dОздоровления
+potion.effect.recuperation=Зелье §dОздоровления
+lingering_potion.effect.recuperation=Туманное зелье §dОздоровления
+tipped_arrow.effect.recuperation=Стрела §dОздоровления
+
+effect.unkindling=§bСуровость
+splash_potion.effect.unkindling=Взрывное зелье §bСуровости
+potion.effect.unkindling=Зелье §bСуровости
+lingering_potion.effect.unkindling=Туманное зелье §bСуровости
+tipped_arrow.effect.unkindling=Стрела §bСуровости
+
+effect.yielding=§6Подчинение
+splash_potion.effect.yielding=Взрывное зелье §6Расплаты по Старому Долгу
+potion.effect.yielding=Зелье §6Расплаты по Старому Долгу
+lingering_potion.effect.yielding=Туманное зелье §6Расплаты по Старому Долгу
+tipped_arrow.effect.yielding=Стрела §6Расплаты по Старому Долгу
+
+effect.clotting=§4Коагуляция
+splash_potion.effect.clotting=Взрывное зелье §4Свёртываемости Крови
+potion.effect.clotting=Зелье §4Свёртываемости Крови
+lingering_potion.effect.clotting=Туманное зелье §4Свёртываемости Крови
+tipped_arrow.effect.clotting=Стрела §4Свёртываемости Крови
+
+effect.dazed=Оглушение
+splash_potion.effect.dazed=Взрывное зелье Оглушения
+potion.effect.dazed=Зелье Оглушения
+lingering_potion.effect.dazed=Туманное зелье Оглушения
+tipped_arrow.effect.dazed=Стрела Оглушения
+
+effect.scrying=§2Проскопия
+splash_potion.effect.scrying=Взрывное зелье §2Проскопии
+potion.effect.scrying=Зелье §2Проскопии
+lingering_potion.effect.scrying=Туманное зелье §2Проскопии
+tipped_arrow.effect.scrying=Стрела §2Проскопии
+
+effect.phasing=§1Фазирование
+splash_potion.effect.phasing=Взрывное зелье §1Фазирования
+potion.effect.phasing=Зелье §1Фазирования
+lingering_potion.effect.phasing=Туманное зелье §1Фазирования
+tipped_arrow.effect.phasing=Стрела §1Фазирования
+
+effect.embolism=§4Эмболия
+splash_potion.effect.embolism=Взрывное зелье §4Эмболии
+potion.effect.embolism=Зелье §4Эмболии
+lingering_potion.effect.embolism=Туманное зелье §4Эмболии
+tipped_arrow.effect.embolism=Стрела §4Эмболии
+
+
+effect.watched=Слежка
+splash_potion.effect.watched=Взрывное зелье Отслеживания
+potion.effect.watched=Зелье Отслеживания
+lingering_potion.effect.watched=Туманное зелье Отслеживания
+tipped_arrow.effect.watched=Стрела Отслеживания
+
+effect.gravity=§bГравитация
+splash_potion.effect.gravity=Взрывное зелье §bОгромной Гравитации
+potion.effect.gravity=Зелье §bОгромной Гравитации
+lingering_potion.effect.gravity=Туманное зелье §bОгромной Гравитации
+tipped_arrow.effect.gravity=Стрела §bОгромной Гравитации
+
+attribute.name.srpcotesia.meleeMinimumDamage=Минимальный урон в ближнем бою
+attribute.name.srpcotesia.meleePercentDamage=Коэффициент минимального урона в ближнем бою
+attribute.name.srpcotesia.projectileMinimumDamage=Минимальный дальний урон
+attribute.name.srpcotesia.projectilePercentDamage=Коэффициент минимального дальнего урона
+
+itemGroup.srpcotesia=Cotesia Glomerata
+itemGroup.srpcotesia_threat=Угрозы Cotesia Glomerata
+
+commands.srpcotesia.negative=Значение должно быть выше 0.
+
+commands.srpcotesia.syntaxerror=Недопустимый синтаксис
+
+commands.srpcotesia.srpmobcounts.usage=/srpmobcounts или /srpmobcounts <число> или /srpmobcounts all
+commands.srpcotesia.tellStrange.usage=/tellstrange <игрок(и)> <сообщение>
+commands.srpcotesia.toggleparasite.usage=/toggleparasite или /toggleparasite <игрок(и)> <следуетУтаить, опционально>
+commands.srpcotesia.biomass.usage=/biomass <игрок(и), опционально> <set|add|subtract> <кол-во>
+
+commands.srpcotesia.biomass.success=%s теперь имеет %d Биомассы.
+commands.srpcotesia.biomass.max=%s уже имеет максимальное кол-во Биомассы.
+commands.srpcotesia.biomass.clamped=%s не может иметь столько Биомассы из-за ограничений максимального кол-ва.
+
+commands.srpcotesia.parasitekills.usage=/parasitekills <игрок(и), опционально> <set|add|subtract> <кол-во>
+commands.srpcotesia.parasitekills.success=%s теперь имеет %d убийств.
+
+commands.srpcotesia.setbloom.usage=/setbloom <число> или /setbloom <игрок(и)> <число>
+commands.srpcotesia.togglenote.usage=/togglenote или /togglenote <игрок(и)>
+commands.srpcotesia.setKillC.usage=/setkills <число> или /setkills <игрок(и)> <число>
+commands.srpcotesia.ante.usage=/ante <set|add|subtract|setminimum> <value> или /ante <query|recalibrate>
+commands.srpcotesia.atimer.usage=/atimer <set|add|subtract> <тики> или /atimer query
+commands.srpcotesia.adapt.usage=/adapt <паразит(ы)> <источник>
+commands.srpcotesia.assimilateplayer.usage=/assimilateplayer <игрок(и)> или /assimilateplayer
+commands.srpcotesia.dendritus.usage=/dendritus <list|clear> или /dendritus <add|remove> <x> <y> <z> <стадия, опционально>
+
+commands.srpcotesia.dendritus.armageddon=Оно скрыто, как только его разместили.
+commands.srpcotesia.dendritus.clear=Удалены все активные Дендриты. Сами блоки могут по-прежнему оставаться, но они неактивны.
+
+commands.srpcotesia.dendritus.add.inrange=Позиция слишком близка к существующему Дендриту на x=%d, y=%d, z=%d.
+commands.srpcotesia.dendritus.add.notloaded=Дендрит не может быть размещён в незагруженных чанках, если там уже есть не заменяемый блок, или если блоки вообще нельзя разместить.
+commands.srpcotesia.dendritus.add.success=Дендрит стадии %d успешно размещён на x=%d, y=%d, z=%d.
+commands.srpcotesia.dendritus.add.modify=Дендрит на x=%d, y=%d, z=%d теперь стадии %d.
+
+commands.srpcotesia.dendritus.remove=Дендрит успешно удалён на x=%d, y=%d, z=%d. Блок стал неактивным.
+
+commands.srpcotesia.dendritus.remove.none=Там нет Дендрита.
+
+commands.srpcotesia.assimilateplayer.alreadyparasite=%s уже Паразит.
+commands.srpcotesia.assimilateplayer.possessing=Данным существом владеет %s.
+commands.srpcotesia.assimilateplayer.dead=%s либо мёртв, либо бестелесен.
+commands.srpcotesia.assimilateplayer.success=%s был успешно номинирован Премии Дарвина.
+
+commands.srpcotesia.srpcdebar.usage=/srpcdebar set <секунды> <измерение, опционально> или /srpcdebar <clear|get> <измерение, опционально>
+
+commands.srpcotesia.srpcdebar.clear=Запрет удален.
+commands.srpcotesia.srpcdebar.get=Измерение %s имеет %s секунд Запрета.
+commands.srpcotesia.srpcdebar.set=Измерению успешно выдано %s %s тиков или %s секунд Запрета.
+commands.srpcotesia.srpcdebar.notloaded=Это измерение не прогружено!
+
+
+commands.srpcotesia.srpcbounty.usage=/srpcbounty <list|clear|listtargets|cleartargets> или /srpcbounty <add|remove> <x> <y> <z> или /srpcbounty <addtarget|removetarget> <игрок или UUID>
+
+commands.srpcotesia.srpcbounty.disabled=Сокровища на данный момент отключены.
+
+commands.srpcotesia.srpcbounty.list=Активное Сокровище в x=%d, y=%d, z=%d
+commands.srpcotesia.srpcbounty.list.range=Дальность работы Сокровища: %d блоков
+commands.srpcotesia.srpcbounty.list.terminal=Сокровища имеют бесконечную дальность работы.
+commands.srpcotesia.srpcbounty.list.none=Активных Сокровищ нет.
+
+commands.srpcotesia.srpcbounty.clear=Удалены все активные Сокровища. Сами блоки могут по-прежнему оставаться, но они неактивны.
+
+commands.srpcotesia.srpcbounty.add.inrange=Позиция слишком близка к существующему Сокровищу на x=%d, y=%d, z=%d.
+commands.srpcotesia.srpcbounty.add.incorrectdim=Сокровища не могут быть размещены в данном измерении (%d).
+commands.srpcotesia.srpcbounty.add.notloaded=Сокровище не может быть размещено в незагруженных чанках, если там уже есть не заменяемый блок, или если блоки вообще нельзя разместить.
+commands.srpcotesia.srpcbounty.add.success=Сокровище успешно размещено на x=%d, y=%d, z=%d.
+
+commands.srpcotesia.srpcbounty.remove=Сокровище успешно удалено в x=%d, y=%d, z=%d. Блок стал неактивным.
+
+commands.srpcotesia.srpcbounty.remove.none=Там нет Сокровища.
+
+
+commands.srpcotesia.srpcbounty.listtargets=Известные Бродяги:
+commands.srpcotesia.srpcbounty.listtargets.uuid=Игрок с UUID %s
+commands.srpcotesia.srpcbounty.listtargets.player=Игрок с Никнеймом %s
+
+commands.srpcotesia.srpcbounty.cleartargets=Список известных Бродяг очищен.
+
+commands.srpcotesia.srpcbounty.addtarget=%s успешно добавлен в список известных Бродяг.
+commands.srpcotesia.srpcbounty.addtarget.fail=%s уже отмечен как Бродяга.
+commands.srpcotesia.srpcbounty.addtarget.totalfail=Ни один Бродяга не подошёл под критерии.
+
+commands.srpcotesia.srpcbounty.removetarget=%s успешно удалён из списка известных Бродяг.
+commands.srpcotesia.srpcbounty.removetarget.fail=%s не отмечен как Бродяга.
+commands.srpcotesia.srpcbounty.removetarget.totalfail=Ни один Бродяга не подошёл под критерии.
+
+
+commands.srpcotesia.srpcsaltine.usage=/srpcsaltine <list|clear> или /srpcsaltine <add|remove> <x> <y> <z>
+
+commands.srpcotesia.srpcsaltine.disabled=Разносчики Соли на данный момент отключены.
+
+commands.srpcotesia.srpcsaltine.list=Активный Разносчик Соли на x=%d, y=%d, z=%d
+commands.srpcotesia.srpcsaltine.list.range=Дальность работы Разносчика соли: %d блоков
+commands.srpcotesia.srpcsaltine.list.terminal=Разносчики Соли имеют бесконечную дальность работы
+commands.srpcotesia.srpcsaltine.list.none=Активных Разносчиков Соли нет.
+
+commands.srpcotesia.srpcsaltine.clear=Удалены все активные Разносчики Соли. Сами блоки могут по-прежнему оставаться, но они неактивны.
+
+commands.srpcotesia.srpcsaltine.add.inrange=Позиция слишком близка к существующему Разносчику Соли на x=%d, y=%d, z=%d.
+commands.srpcotesia.srpcsaltine.add.incorrectdim=Разносчик Соли не может быть размещен в данном измерении (%d).
+commands.srpcotesia.srpcsaltine.add.notloaded=Разносчик Соли не может быть размещён в незагруженных чанках, если там уже есть не заменяемый блок, или если блоки вообще нельзя разместить.
+commands.srpcotesia.srpcsaltine.add.success=Разносчик Соли успешно размещён на x=%d, y=%d, z=%d.
+
+commands.srpcotesia.srpcsaltine.remove=Разносчик Соли успешно удалён в x=%d, y=%d, z=%d. Блок стал неактивным.
+
+commands.srpcotesia.srpcsaltine.remove.none=Там нет Рзносчика Соли.
+
+
+
+commands.srpcotesia.srpcwell.usage=/srpcwell <get|clear|fix> <измерение, опционально> или /srpcwell <add|remove> <x> <z> <измерение, опционадьно>
+
+commands.srpcotesia.srpcwell.disabled=Колодцы на данный момент отключены.
+
+commands.srpcotesia.srpcwell.empty=Активных Колодцев нет.
+
+commands.srpcotesia.srpcwell.get=Активный Колодец на x=%d, z=%d, с %d здоровьем в %s (ID измерения %d)
+commands.srpcotesia.srpcwell.clear=Удалены все активные Колодцы.
+commands.srpcotesia.srpcwell.clear.dim=Удалены все Колодцы в %s (ID измерения %d)
+commands.srpcotesia.srpcwell.add=Колодец успешно размещён на x=%d, z=%d, в %s (ID измерения %d)
+commands.srpcotesia.srpcwell.incorrectdim=Колодцы не могут быть размещены в том измерении.
+commands.srpcotesia.srpcwell.toomany=Слишком много Колодцев с учётом всех измерений.
+commands.srpcotesia.srpcwell.toomanydim=Слишком много Колодцев в %s (ID измерения %d)
+commands.srpcotesia.srpcwell.remove=Колодец успешно удалён на x=%d, z=%d, в %s (ID измерения %d)
+commands.srpcotesia.srpcwell.remove.none=Там нет Колодца.
+commands.srpcotesia.srpcwell.nofix=Все Колодцы кажутся недействительными, либо их вообще нет.
+
+command.srpcotesia.srpmobcounts.top=========== Счётчик Существ-Паразитов  ==========
+command.srpcotesia.srpmobcounts.info=Найдено %d разных сущностей Паразитов. Всего найдено %d Паразитов.
+command.srpcotesia.srpmobcounts.displaying=Отображение наиболее частых %d:
+command.srpcotesia.srpmobcounts.class=%s: %d
+command.srpcotesia.srpmobcounts.name=%s (%s): %d
+
+commands.srpcotesia.dendritus.active=Активный Дендрит стадии %s на x=%d, y=%d, z=%d, с радиусом %d блоков.
+commands.srpcotesia.dendritus.inactive=Неактивный Дендрит стадии %s на x=%d, y=%d, z=%d, с радиусом %d блоков.
+commands.srpcotesia.dendritus.noneactive=Нет активных Дендритов.
+
+commands.srpcotesia.atimer.disabled=Таймер Армагеддона отключён.
+commands.srpcotesia.atimer.query=Осталось %d тиков.
+
+commands.srpcotesia.ante.disabled=Ставка на данный момент отключена.
+commands.srpcotesia.ante.query=На данный момент Ставка составляет %d. Текущая минимальная Ставка составляет %d.
+commands.srpcotesia.ante.recalibrate=Ставка откалибрована.
+
+death.attack.out_of_time=%1$s не хватило времени.
+death.attack.gave_up=%1$s испустил дух из тела.
+death.attack.gravity_crushing=%1$s был сплющен сверх всякой меры.
+death.attack.auricFire=%1$s был ионизирован пламенем Ауры.
+death.attack.salt=%1$s превратился в соль.
+death.attack.trauma=Прошлое настигло %1$s.
+
+commands.srpcotesia.adapt.adapted=Принудительно адаптировано %d сущностей к '%s'
+commands.srpcotesia.adapt.cant=Найдено %d сущностей, которые не смогли адаптироваться.
+
+commands.srpcotesia.setbloom.positive=Значение должно быть положительным!
+commands.srpcotesia.setKillC.between=Значение должно быть между 0 и %d!
+
+commands.srpcotesia.toggleparasite.success=Успешно установлен статус Паразита у %s в %s.
+commands.srpcotesia.setbiomass.success=Успешно установлена Биомасса у %s в %d.
+commands.srpcotesia.setbloom.success=Успешно установлен уровень Цветения у %s в %d.
+commands.srpcotesia.togglenote.success=Успешно присвоен статус "Получено Заслуженное Письмо" у %s на %s.
+commands.srpcotesia.setKillC.success=Успешно установлено %d совершённых убийств у %s.
+commands.srpcotesia.ante.success=Успешна установлена Ставка в %d. Текущая минимальная Ставка - %d.
+commands.srpcotesia.atimer.success=Успешно установлен таймер Армагеддона в %d.
+
+key.srpcotesia.togglehide=Скрыться/Показаться
+key.srpcotesia.throwlatch=Кинуть Захват
+key.srpcotesia.createfactory=Создать Фабрику
+key.srpcotesia.mallmenu=Открыть меню Адаптаций
+key.srpcotesia.orb=Выпустить Сферу/Создать Помощника
+key.srpcotesia.leer=Пристальный взгляд
+key.srpcotesia.leap=Рывок
+key.srpcotesia.descend=Подъём/Спуск
+
+#key.srpcotesia.factorydesc=Показать Руководство по Фабрике во всплывающей подсказке
+
+key.categories.srpcotesia=Cotesia Glomerata
+
+entity.srpcotesia.latch.name=Захват
+entity.srpcotesia.factory.name=Фабрика
+entity.srpcotesia.mote.name=Пылинка
+
+tooltip.srpcotesia.item.parasitedrop=Можно получить, используя ПКМ с любым мечом на размещённой Фабрике %s.
+
+item.srpcotesia.factory.name=Фабрика
+tooltip.srpcotesia.factory.unbound=Непривязанная
+tooltip.srpcotesia.factory.nonparasite=§fЭто сулит неприятности.
+overlay.srpcotesia.factory.bindto=Нажми %s чтобы привязать к %s
+tooltip.srpcotesia.factory.discard=%s чтобы забраковать.
+overlay.srpcotesia.getdrops=Нажми %s чтобы вырезать образцы
+overlay.srpcotesia.handful=Нужна пустая рука
+overlay.srpcotesia.pickup=%s чтобы поднять
+overlay.srpcotesia.insert=%s чтобы добавить Биомассу
+overlay.srpcotesia.takeout=%s чтобы взять Биомассу
+overlay.srpcotesia.nocolony=Отсутствует Колония
+overlay.srpcotesia.seconds=%d секунд(ы)
+overlay.srpcotesia.factoryblocked=Не может производить Паразитов
+overlay.srpcotesia.biomass=%d/%d Биомассы
+overlay.srpcotesia.biomass.cost=%d/%d Биомассы, Стоимость: %d Биомассы
+overlay.srpcotesia.cost=Цена: %d Биомассы
+overlay.srpcotesia.dispatcher.stored=Сохранено %d Паразитов
+overlay.srpcotesia.killC.cooldown=Эволюция на перезарядке.
+overlay.srpcotesia.killC=%d очков (нужно %d)
+overlay.srpcotesia.killC.boundless=%d ед. (Это прекрасно...)
+overlay.srpcotesia.killC.upgradeImminent=Ты готов?
+overlay.srpcotesia.killC.upgradePhase=Фаза слишком низка
+overlay.srpcotesia.trade=Нажми %s для обмена
+overlay.srpcotesia.copybind=Нажми %s для копирования
+
+overlay.srpcotesia.dispatcher.retrieve=Нажми %s чтобы извлечь сохранённых Паразитов.
+overlay.srpcotesia.factory.dissolve=Нажми %s чтобы расстворить Паразита.
+
+overlay.srpcotesia.catchingup=Получение очков не влияет на мир!
+
+item.srpcotesia.brew_sac.name=Заварочный Мешок
+tooltip.srpcotesia.brew_sac.judgemental=Не для тебя.
+tooltip.srpcotesia.brew_sac.ammo=%d/%d бросков
+tooltip.srpcotesia.brew_sac.empty=Пустой. Используй Осмос, для модификаци!
+tooltip.srpcotesia.brew_sac.cost=%d Биомассы для пополнения.
+tooltip.srpcotesia.brew_sac.refill=Удерживай "Использовать предмет", чтобы заполнить.
+tooltip.srpcotesia.brew_sac.intensity=Максимальный усилитель зелья %s
+tooltip.srpcotesia.brew_sac.damage=Эфеекты наносят %s базового урона
+tooltip.srpcotesia.brew_sac.stacking=Складывание
+tooltip.srpcotesia.reagent.via=§fПри добавлении через §bОсмос§f:
+tooltip.srpcotesia.reagent.adds=§fДобавляет эффект в отвар: %s
+tooltip.srpcotesia.reagent.damage=§fИзменяет базовый урон отвара на %f
+tooltip.srpcotesia.reagent.intensifier=§fУвеличивает усилитель отвара
+tooltip.srpcotesia.reagent.incompatible=§fНесовместимо с %s
+
+tooltip.srpcotesia.pointmulti.global=Получишь +%s%% к получению очков Глобальной Эволюции
+tooltip.srpcotesia.pointmulti.singular=Получишь +%s%% к получению Очков Эволюции
+tooltip.srpcotesia.pointmultidrain=Отнимает %d опыта в секунду
+
+brew.srpcotesia.potion.name=Накладывает %s
+brew.srpcotesia.potion.name.max=Накладывает %s, Макс %s
+brew.srpcotesia.emptyPotion.name=Пустое Зелье
+brew.srpcotesia.parasitepotion.desc=Накладывает этот эффект на Паразитов.
+brew.srpcotesia.enemypotion.desc=Накладывает этот эффект на Не-паразитов.
+brew.srpcotesia.harm.name=Вред
+brew.srpcotesia.harm.desc=Наносит магический урон.
+brew.srpcotesia.poisonBane.name=Ядовитое Проклятие
+brew.srpcotesia.poisonBane.desc=Наносит магический урон, но только если сущность отравлена.
+brew.srpcotesia.witherBane.name=Проклятие Иссушения
+brew.srpcotesia.witherBane.desc=Наносит магический урон, но только если сущность иссушена.
+brew.srpcotesia.explosion.name=Взрыв
+brew.srpcotesia.explosion.desc=Взрывается при прямом попадании, наносит магический урон. Не разрушает блоки.
+brew.srpcotesia.turn.name=Обращение
+brew.srpcotesia.turn.desc=Ассимилирует здоровую сущность, если он достаточно ослаблен. Может создать Бешенную сущность, если фаза позволяет.
+brew.srpcotesia.repeat.name=Повтор
+brew.srpcotesia.repeat.desc=Повторно накладывает эффект, непосредственно предшествующий ему.
+brew.srpcotesia.rally.name=Сбор
+brew.srpcotesia.rally.desc=Телепортирует далёко находящегося Паразита к месту попадания отвара.
+
+item.srpcotesia.itemenhance.name=§6Жезл Усиления
+tooltip.srpcotesia.itemenhance=Используй на существе, чтобы его §6Усилить
+message.srpcotesia.enhancedmobsdisabled=§6Усиленные Существа§f отключены на данный момент.
+
+message.srpcotesia.itemenhance.succeed=§6Существо успешно Усилено.
+message.srpcotesia.itemenhance.repeat=§6Это существо уже Усилено.
+message.srpcotesia.itemenhance.fail=§6Это существо не может быть усилено, по крайней мере здесь.
+message.srpcotesia.itemenhance.parasite=§6Даже отдаленно невозможно.
+
+item.srpcotesia.scorned_pearl.name=§cПрезираемая Жемчужина
+tooltip.srpcotesia.scorned_pearl.parasite1=§cАбсолютно отвратительно.
+tooltip.srpcotesia.scorned_pearl.parasite2=§4ГЛУПАЯ УДАЧА ВСЁ РАВНО ИХ НАХОДИТ. ИЗБАВЬСЯ ОТ ЭТОГО.
+tooltip.srpcotesia.scorned_pearl.parasite3=§4ЛУЧШЕ ЧТОБЫ ОНА БЫЛА СДЕЛАНА ИЗ НАШЕЙ ПЛОТИ, ЧЕМ ИЗ ЧЕГО-ТО МЕНЕЕ МАЛОДУШНОГО.
+tooltip.srpcotesia.scorned_pearl1=§fЗначительно уменьшает количество очков Эволюции, получаемых за тело, если её использовать на приманке во второй руке.
+tooltip.srpcotesia.scorned_pearl2=§fВы должны быть в полной темноте, чтобы использовать этот предмет.
+tooltip.srpcotesia.scorned_pearl3=§fСильно повреждает любых Паразитов в радиусе 10 чанков.
+tooltip.srpcotesia.scorned_pearl4=§fОно выглядит не стабильно.
+
+message.srpcotesia.scorned_pearl.dark=Вам нужно быть в полной темноте.
+message.srpcotesia.scorned_pearl.cooldown=Это не сработает во время перезарядки.
+message.srpcotesia.scorned_pearl.toolow=Это уже перебор.
+
+item.srpcotesia.remnant.name=Рудимент
+tooltip.srpcotesia.remnant=§fДискообразная пластина выпадающая с §Усиленных %s.
+tooltip.srpcotesia.remnant.unbound=§fИспользуйте на сущетсвте, чтобы созать §dРудимент.§f этого существа. Любой рецепт, в котором используется §dРудимент§f указывает на то, что вместо него можно использовать любой другой §dРудимент§f.
+tooltip.srpcotesia.remnant1=§dРудименты§f выпадают с §6Усиленных Существ§f убитые Паразитами, хотя любой §cБродяга§f должен быть непосредственно вовлечён в это дело.
+tooltip.srpcotesia.remnant.notyet=§6Усиленные Существа§f ещё недостаточно сильны для их выпадения.
+tooltip.srpcotesia.remnant2=§fНе будет выпадать с пассивных существ.
+tooltip.srpcotesia.remnant3=§f5 уникальных Рудиментов могут быть использованы для создания §6Фрагментов Чипа§f на §bЛитографе§f.
+
+
+item.srpcotesia.ruinous_salt.name=§6Пагубная Соль
+tooltip.srpcotesia.ruinous_salt.parasite=§fИспользуется для крафта. Наносит тебе вред, если держать её в инвентаре.
+tooltip.srpcotesia.ruinous_salt=§fДобывается из §6Разносчика Соли§f.
+
+
+item.srpcotesia.chip_fragment.name=§6Фрагмент Чипа
+tooltip.srpcotesia.chip_fragment=§fНебольшой фрагмент схемы. Он достаточно мал, чтобы его можно было безопасно держать в руках.
+tooltip.srpcotesia.chip_fragment1=§fМаленька частичка чего-то §6гораздо более важного.
+tooltip.srpcotesia.chip_fragment2=§fСоздаётся из 5 уникальных §dРудиментов§f на §bЛитографе§f.
+tooltip.srpcotesia.chip_fragment3=§4РАСКРЫТО ТВОИМ ВОСПРИЯТИЕМ. ДРУГИЕ НИЧЕГО НЕ ПОНИМАЮТ, ХОТЬ И НЕ ИЗ-ЗА СВОЕЙ БЕСТОЛКОВОСТИ.
+
+item.srpcotesia.callous_chip.name=§6Бессердечный Чип
+tooltip.srpcotesia.callous_chip=§fАномально теплый и нестабильный компьютерный чип.
+tooltip.srpcotesia.callous_chip1=§fМаленькая частичка чего-то §6гораздо более опасного.
+tooltip.srpcotesia.callous_chip2=§cОн понадобится мне для дальнейшего крафта.
+tooltip.srpcotesia.callous_chip3=§4УБЕДИТЬ ДРУГИХ ИЗГОТОВИТЬ ИХ БЫЛО ТЩЕТНОЙ ПОПЫТКОЙ. МЫ САМИ ПО СЕБЕ.
+
+item.srpcotesia.frayed_wires.name=§6Потёртые Провода
+tooltip.srpcotesia.frayed_wires=§fБеспорядочный клубок проводов, которые иногда выпадают с трупов §6Усиленных Существ§f. Используются для крафта.
+
+message.srpcotesia.item.yielding=§bОслабляет тебя, если держать их в инвентаре.
+
+
+item.srpcotesia.signal_jammer.name=§6Глушилка
+tooltip.srpcotesia.signal_jammer1=§fПредотвращает нанесение критических ударов ближайшими §6Усиленными Существами§f на %d тиков при использовании.
+message.srpcotesia.signal_jammer.waste=§fЗдесь нет §6Усиленных Существ§f поблизости.
+
+
+item.srpcotesia.bloodstained_saddle.name=§bОкровавленное Седло
+tooltip.srpcotesia.bloodstained_saddle.fake=§fОборванное инфекцией седло.
+tooltip.srpcotesia.bloodstained_saddle1=§fМожет быть надет на определенных Паразитов, что позволяет использовать их в качестве скакуна. Эти Паразиты будут испускать частицы, пока ты держишь этот предмет.
+tooltip.srpcotesia.bloodstained_saddle2=§fПредмет будет израсходован, но его можно снять с Паразита с помощью ножниц. Он также выпадает, если Паразит будет поглощён, удален или убит.
+tooltip.srpcotesia.bloodstained_saddle3=§fНадевается только на тех Паразитов, которых ты создал.
+
+message.srpcotesia.cantsaddle=Этого Паразита нельзя оседлать.
+
+item.srpcotesia.ghastly_bandage.name=§cЖуткий Бинт
+tooltip.srpcotesia.ghastly_bandage1=§fТемный, гротескный лоскут сплетенной кожи. Он кровоточит.
+tooltip.srpcotesia.ghastly_bandage2=§fЛечит Паразита на %s здоровья. Расходуется по мере использования.
+
+message.srpcotesia.bandagefail=Они уже полностью исцелены.
+
+item.srpcotesia.macabre_pearl.name=§bМрачная Жемчужина
+tooltip.srpcotesia.macabre_pearl.fake=§fЖемчужина. Такая же мутная, как твое будущее.
+tooltip.srpcotesia.macabre_pearl1=§fЭто может быть использовано для убеждения Паразитов гораздо охотнее следовать за тобой.
+tooltip.srpcotesia.macabre_pearl2=§fИспользование предмета на Паразите изменит его поведение. Также, во время подкрадывания, принудительно телепортирует Паразита(ов) к тебе.
+tooltip.srpcotesia.macabre_pearl3=§fРаботает только на тех Паразитах, которых ты создал.
+tooltip.srpcotesia.macabre_pearl4=§4КТО-ТО ДОЛЖЕН ПРИСМАТРИВАТЬ ЗА ТОБОЙ. ТЫ МОЖЕШЬ СДЕЛАТЬ ЧТО-ТО ГЛУПОЕ.
+
+item.srpcotesia.blighted_mirror.name=§aИспорченное Зеркало
+tooltip.srpcotesia.blighted_mirror.fake=§fЭто твой позвоночник?
+tooltip.srpcotesia.blighted_mirror1=§fПри удержании подсвечивает §aМаяки§f и §cИсполнители§f сквозь стены.
+tooltip.srpcotesia.blighted_mirror2=§4НАЗАД К СВОИМ НАЧАЛАМ.
+
+item.srpcotesia.itemdismiss.name=§aЖезл Увольнения
+tooltip.srpcotesia.itemdismiss1=Используй на существе, чтобы его §aУдалить
+tooltip.srpcotesia.itemdismiss.fake=Однако тебе нужно быть в творческом режиме, чтобы это сделать.
+tooltip.srpcotesia.itemdismiss2=§4ТОЛЬКО ТЫ И Я.
+
+message.srpcotesia.itemdismiss.unworthy=§fОно выглядит нежеланным.
+
+item.srpcotesia.factory_drop.name=§e Внутренности Фабрики
+tooltip.srpcotesia.factory_drop1=§fСтуденистая масса мякоти, собранная из §eФабрики§f. Она уже разваливается на части.
+tooltip.srpcotesia.factory_drop2=§4ТВОИ "МОДИФИКАЦИИ", ОБЛЕЧЁННЫЕ В ФОРМУ. ИЗМЕНЕНИЯ В ТАКОЙ СТЕПЕНИ ИМЕЮТ ПОСЛЕДСТВИЯ, ДЛЯ НАС И ДЛЯ ТВОИХ ТВОРЕНИЙ.
+tooltip.srpcotesia.factory_drop3=§4БЫЛО БЫ МУДРО СКРЫТЬ НАШИ СЛЕДЫ. ИЗБАВЬСЯ ОТ ЭТОГО.
+
+item.srpcotesia.mortifying_tentacle.name=§2Ужасающее Щупальце.
+tooltip.srpcotesia.mortifying_tentacle=§fУменьшенный вариант щупальца с тел §2Выдающихся§f Паразитов.
+
+item.srpcotesia.bogle_charge.name=§2Заряд Фантома
+tooltip.srpcotesia.bogle_charge=§fУменьшенный вариант взрывного заряда §2Фантомов§f.
+
+item.srpcotesia.virulent_breath.name=§aВирусное Дыхание
+tooltip.srpcotesia.virulent_breath=§fПузырёк с Драконьем Дыханием заражённое §aВирусностью§f.
+
+item.srpcotesia.putrid_unit.name=§cТрупный Узел
+tooltip.srpcotesia.putrid_unit1=§fХаотичный сгусток нервной ткани, полученный с §Бешеных§f Паразитов.
+tooltip.srpcotesia.putrid_unit2=§fПредположительно, используется для создания §bДендритов§f.
+
+
+tooltip.srpcotesia.item.alive=Оно двигается.
+tooltip.srpcotesia.item.factoryinput=§eФабрика§f могла бы использовать это.
+tooltip.srpcotesia.item.fearitem=§4Тебе не нравится этот предмет.
+tooltip.srpcotesia.item.disruptor=§fНарушает развитие §1Фазирования§f.
+tooltip.srpcotesia.item.notdisruptor=§fНе нарушает развитие §1Фазирования§f.
+
+tooltip.srpcotesia.factory.deterrent=Будет агрессивнопорождать Паразитов, пока удерживается.
+tooltip.srpcotesia.factory.bound=Привязана к %s
+tooltip.srpcotesia.factory.tier=Уровень: %d
+tooltip.srpcotesia.factory.cannotproduce=Не может производить Паразитов, используется только для вырезки частей.
+tooltip.srpcotesia.factory.created=§cМожет быть создана с %s
+tooltip.srpcotesia.factory.shift=Удерживайте SHIFT для дополнительной информации
+tooltip.srpcotesia.factory.desc1=Фабрики - это бытовые Паразиты, которые порождают других Паразитов.
+tooltip.srpcotesia.factory.desc2=§4Они копируют ваш уровень Эволюции при создании или уровень того, к чему они привязываются.
+tooltip.srpcotesia.factory.desc3=Использование с приседанием разберёт её обратно в Биомассу. Если она привязана, сначала отвяжет её.
+tooltip.srpcotesia.factory.desc4=Их можно разместить на земле, привязать к Паразиту или превратить Паразита в Биомассу с помощью стандартного взаимодействия, обычно ПКМ.
+tooltip.srpcotesia.factory.desc5=И ты, и Фабрика должны быть достаточно высокого статуса, чтобы использовать её должным образом.
+tooltip.srpcotesia.factory.desc6=Может быть поднята обратно, ударив по ней с приседанием с пустой рукой. Удар не повреждает её, даже если ты что-то держишь в руках.
+tooltip.srpcotesia.factory.desc7=Биомассу можно извлекать или добавлять с помощью удара или взаимодействия с пустой рукой соответственно. Приседание увеличивает скорость передачи в пять раз.
+tooltip.srpcotesia.factory.desc8=Привязанные Фабрики будут поглощать Паразитов низшего уровня и могут использоваться для создания частей с помощью меча или скальпеля.
+tooltip.srpcotesia.factory.desc9=§cБольше частей можно сделать, если рядом есть Фабрики, привязанные к другим Паразитам того же уровня.
+tooltip.srpcotesia.factory.desc10=Непривязанные Фабрики будут распределять Биомассу к Фабрикам низшего уровня поблизости и улучшать определённых Паразитов.
+tooltip.srpcotesia.factory.desc11=Обмен определённых предметов с фабриками принесёт очки эволюции и опыт, в зависимости от ценности предмета. Часы (кровые или нет) можно использовать для проверки прогресса фазы.
+tooltip.srpcotesia.factory.desc12=Фабрики Паразитов уровня Отпугивающих, такие как Часовой или Хвататель, будут пассивно порождать данных Паразитов поблизости, когда удерживаются.
+tooltip.srpcotesia.factory.desc13=Эту справку можно отключить в клиентских настройках основного конфига.
+
+item.srpcotesia.masticator.name=§aИзмельчитель
+tooltip.srpcotesia.masticator1=§fИзрыгает токсичную миазму. Миазма заражает блоки после %d Фазы, генерируя §aОчки Эволюции§f.
+tooltip.srpcotesia.masticator2=Требует §aЗловонные "Канистры"§f для работы. Может быть улучшен с помощью §aМаяка стадии IV§f в §4Биоме Паразитов§f.
+tooltip.srpcotesia.masticator3=§4ШЕДЕВР, СОЗДАННЫЙ ИЗ ВАШИХ ВОСПОМИНАНИЙ И ОДНОГО ИЗ НАШИХ.
+tooltip.srpcotesia.masticator4=§4ИСХОДНЫЙ ДИЗАЙН БЫЛ ДЕФЕКТНЫМ, КАК ВЫ ИНТУИРОВАЛИ. ЗДЕСЬ НЕТ МЕСТА ОГНЮ.
+
+item.srpcotesia.consecrator.name=§4ОСВЯТИТЕЛЬ
+tooltip.srpcotesia.consecrator1=§fИзрыгает ужасную миазму. Миазма заражает блоки и, если в радиусе действия §4Узел§f, биомы после %d Фазы, генерируя §aОчки Эволюции§f.
+tooltip.srpcotesia.consecrator2=§fТребует §aЗловонные "Канистры"§f для работы.
+tooltip.srpcotesia.consecrator3=§4ПЛОТЬ И КОСТИ В КОЛЫБЕЛИ, ЗАЯВЛЯЮЩИЕ ПРАВА ОТ МОРЯ ДО МОРЯ.
+tooltip.srpcotesia.consecrator4=§4ЗАСТАВЬ ЗЕМЛЮ ПЕТЬ.
+tooltip.srpcotesia.masticator.notempty=§aЕщё есть немного сока
+tooltip.srpcotesia.masticator.notparasite=§fРучное чудовище, напоминающее §aМаяк§f.
+tooltip.srpcotesia.consecrator.notparasite=§fРучное чудовище, напоминающее §aМаяк стадии IV§f.
+
+item.srpcotesia.fetid_canister.name=§aЗловонная "Канистра"
+tooltip.srpcotesia.fetid_canister1=§fПлотный кокон из различных частей Паразитов, объединённых обновлённой целью.
+tooltip.srpcotesia.fetid_canister2=§fРаботает как топливо для §aИзмельчителя§f.
+tooltip.srpcotesia.fetid_canister3=§4ПРОСВЕТЛЕНИЕ.
+
+item.srpcotesia.dirty_needle.name=§4Грязная Игла
+tooltip.srpcotesia.dirty_needle1=§fСомнительный шприц, наполненный §cнеизвестным химикатом§f. Необычно холодный на ощупь.
+tooltip.srpcotesia.dirty_needle2=§fМожет ускорить работу §4Зова улья§f. Атакуйте Существо, чтобы использовать.
+tooltip.srpcotesia.dirty_needle3=§4КАК ГРУБО.
+
+
+item.srpcotesia.tool_pickaxe.name=§eЖивая Кирка
+item.srpcotesia.tool_pickaxe_sentient.name=§6Разумная Кирка
+tooltip.srpcotesia.tool_pickaxe=§fРезультат преобразования частей тела различных Паразитов в оружие. Пламя жизни ярко горит внутри.
+tooltip.srpcotesia.tool_pickaxe_sentient=§fВысшая степень эволюции Живой Кирки. Она обрела §bРазум§f.
+tooltip.srpcotesia.tool_pickaxe1=§f§cРазрушает и броню, и блоки. Паразитические блоки разрушаются гораздо легче.
+
+#tooltip.srpcotesia.tool_pickaxe3=§fМожет быть изготовлена из §cРукояти из обожённой кости§f через §eФабрику§f.
+
+item.srpcotesia.scalpel.name=§eЖивой Скальпель
+tooltip.srpcotesia.scalpel1=§fСоздан с заботой, кажется довольным.
+tooltip.srpcotesia.scalpel2=§fСобирает случайные образцы с §eФабрики§f §cэффективнее§f, чем обычные мечи. §7Не очень эффективен§f как оружие.
+#tooltip.srpcotesia.scalpel3=§fМожет быть изготовлен из §7Заражённый почвы§f, независимо от того, найден ли он в Биоме или взят с §aМаяка§f, через §eФабрику§f.
+
+item.srpcotesia.salt_compass.name=§6Соляной Компас
+tooltip.srpcotesia.salt_compass1=§fОпределяет местоположение ближайшего §6Разносчика Соли§f. Наследует свойства §6Пагубной Соли§f.
+
+item.srpcotesia.emf_reader.name=§6Датчик ЭМП
+tooltip.srpcotesia.emf_reader1=§fИспользуется для поиска ближайшего §6Сокровища§f. Должен быть использован на §6Усиленном Существе§f для установки сигнала.
+tooltip.srpcotesia.emf_reader2=§fПосле настройки он будет загораться, если пользователь смотрит в по направлению к §6Сокровищу§f.
+tooltip.srpcotesia.emf_reader.found=§6Сокровище найдено
+tooltip.srpcotesia.emf_reader.dimension=§6Это устройство привязано к Сокровищу из другого измерения.
+tooltip.srpcotesia.emf_reader.none=Здесь нет активных §6Сокровищ§f.
+
+item.srpcotesia.tally_counter.name=§6Счётчик
+tooltip.srpcotesia.tally_counter1=§fИзмеряет текущее значение §6Ставки§f в мире, глобальное во всех измерениях.
+tooltip.srpcotesia.tally_counter2=§fВраги будут становиться сильнее по мере его увеличения. Будет разумно проверять это каждые несколько дней.
+message.srpcotesia.antedisabled=§6Ставка§f сейчас отключена.
+
+item.srpcotesia.well_divining_rod.name=§6Искраходный Жезл Колодца
+tooltip.srpcotesia.well_divining_rod1=§fИспускает искру в направлении ближайшего §6Колодца§f.
+tooltip.srpcotesia.well_divining_rod2=§fЕсли он в другом измерении, вместо этого будет упомянуто название измерения.
+
+
+
+item.srpcotesia.well_magnet.name=§6Магнит Колодца
+tooltip.srpcotesia.well_magnet1=§fТелепортирует ближайший §6Колодец§f в измерении в пределах %s блоков от пользователя.
+message.srpcotesia.well_magnet.waste=Было бы расточительно телепортировать §6Колодец§f, который находится всего в %d блоках от меня.
+message.srpcotesia.well_magnet.moved=§6Колодец§f был перемещён.
+
+message.srpcotesia.nowell=Сейчас нет активных §6Колодцев§f.
+message.srpcotesia.nowellrange=Поблизости нет §6Колодца§f.
+message.srpcotesia.welldim=§6Колодец§f находится в %s
+message.srpcotesia.wellhere=Здесь находится §6Колодец§f, и можно использовать §6Уплотнитель Колодца§f.
+message.srpcotesia.welldisabled=§6Колодцы§f сейчас отключены.
+
+
+message.srpcotesia.well.created=Образовался §6Колодец§f.
+message.srpcotesia.well.created.multiple=Образовалось несколько §6Колодцев§f.
+message.srpcotesia.well.destroyed=В %s был уничтожен §6Колодец§f!
+message.srpcotesia.well.damaged=§6Колодец§f теперь имеет %d оставшегося здоровья.
+message.srpcotesia.well.fix=§6Колодец§f был перемещён на x=0, z=0 из-за нахождения в недопустимом месте.
+message.srpcotesia.well.fixdim=§6Колодец§f был перемещён в %s из-за нахождения в недопустимом измерении.
+message.srpcotesia.well.fixclear=§6Колодцы§f не могут образовываться ни в одном измерении. В результате они были очищены.
+message.srpcotesia.well.fixprevent=§6Колодцы§f не могут образовываться ни в одном измерении.
+
+tile.srpcotesia.well_sealer.name=§6Уплотнитель Колодца
+tooltip.srpcotesia.well_sealer1=§fНаносит %d урона ближайшим §6Колодцам§f.
+
+tile.srpcotesia.clutch.name=§6Клатка
+tooltip.srpcotesia.clutch=§fПри детонации уничтожает блоки §6Ползучей Соли§f. Не вредит другим блокам.
+
+tile.srpcotesia.salted_log.name=§6Солёное Бревно
+tile.srpcotesia.salted_earth.name=§6Солёная Земля
+tile.srpcotesia.salted_rock.name=§6Солёный Камень
+tile.srpcotesia.salted_wood.name=§6Солёная Древесина
+tile.srpcotesia.salted_ice.name=§6Солёный Лёд
+tile.srpcotesia.salted_earth_slab.name=§6Плита из Солёной Земли
+tile.srpcotesia.salted_rock_slab.name=§6Плита из Солёного Камня
+tile.srpcotesia.salted_wood_slab.name=§6Плита из Солёной Древесины
+tile.srpcotesia.salted_earth_double_slab.name=§6Двойная Плита из Солёной Земли
+tile.srpcotesia.salted_rock_double_slab.name=§6Двойная Плита из Солёного Камня
+tile.srpcotesia.salted_wood_double_slab.name=§6Двойная Плита из Солёной Древесины
+tile.srpcotesia.salted_earth_stairs.name=§6Ступени из Солёной Земли
+tile.srpcotesia.salted_rock_stairs.name=§6Ступени из Солёного Камня
+tile.srpcotesia.salted_wood_stairs.name=§6Ступени из Солёной Древесины
+tile.srpcotesia.salted_vine.name=§6Солёная Лоза
+tile.srpcotesia.salted_tendril.name=§6Солёный Усик
+tile.srpcotesia.saltine.name=§6Соль
+tile.srpcotesia.saltine_active.name=§6Разносчик Соли
+tooltip.srpcotesia.saltine=§fРаспространяет §6Ползучую Соль§f на паразитические блоки. Гораздо более мощный и вредит Паразитам при контакте.
+tooltip.srpcotesia.salted_block=§fРаспространяет §6Ползучую Соль§f на паразитические блоки. Вредит Паразитам при контакте.
+tooltip.srpcotesia.salted_bush=§fВредит Паразитам при контакте.
+message.srpcotesia.saltdisabled=§6Ползучая Соль§f сейчас отключена.
+message.srpcotesia.saltinedisabled=§6Разносчики Соли§f сейчас отключены.
+message.srpcotesia.graduation=§fВыпустилась §6Соль§f.
+
+tile.srpcotesia.salt_purifier.name=§6Очиститель Соли
+tooltip.srpcotesia.salt_purifier=Возвращает биомы §6Ползучей Соли§f к тому, чем земля была изначально.
+
+
+item.srpcotesia.vagrant_divining_rod.name=§cЛозоходный Жезл Бродяги
+tooltip.srpcotesia.vagrant_divining_rod1=§fИспускает туман в направлении ближайшего §cБродяги§f.
+tooltip.srpcotesia.vagrant_divining_rod2=§fНе работает, если §cБродяга§f в другом измерении.
+tooltip.srpcotesia.vagrant_divining_rod3=§cЭто кажется не очень честным.
+tooltip.srpcotesia.vagrant_divining_rod4=§4УНИЧТОЖЬ ЭТО НЕМЕДЛЕННО.
+
+message.srpcotesia.item.disabled=§cЭтот предмет отключен.
+message.srpcotesia.novagrants=В этом измерении нет активных §cБродяг§f.
+message.srpcotesia.trackedvagrant=Вы чувствуете всепроникающий ужас...
+
+tile.srpcotesia.gloom_torch.name=§eМрачный Факел
+tooltip.srpcotesia.gloom_torch=§4УЛУЧШЕНИЕ.
+
+tile.srpcotesia.hi_enchanting_table.name=§cЗахваченный Чародейский Стол
+tooltip.srpcotesia.hi_enchanting_table1=§fИсточает §dзачарования§f из окружающих 3x3 §aчанков§f. §cОни обычно не меняются.
+tooltip.srpcotesia.hi_enchanting_table2=§fМожет зачаровывать уже зачарованные предметы, по увеличенной стоимости.
+tooltip.srpcotesia.hi_enchanting_table3=§fТребует §9Лазурит§f для работы. Добавление большего увеличивает уровень зачарования.
+tooltip.srpcotesia.hi_enchanting_table4=§fЗачарования показываются только когда предмет в слоте. §aКровавый Том§f можно использовать для их записи.
+tooltip.srpcotesia.hi_enchanting_table5=§fСоздаётся путём передачи Чародейского Стола §7Букашке§f.
+tooltip.srpcotesia.hi_enchanting_table6=§4СЕВЕР НАВЕРХУ.
+
+tooltip.srpcotesia.no_enchantment=Описание не найдено.
+
+item.srpcotesia.bleeding_tome.name=§aКровавый Том
+tooltip.srpcotesia.bleeding_tome1=§fХранит зачарования, найденные §cЗахваченным Чародейским Столом§f.
+tooltip.srpcotesia.bleeding_tome2=§fПоместите в предназначенный слот стола, чтобы сохранить их.
+tooltip.srpcotesia.bleeding_tome.none=§fНет Зачарований
+
+tile.srpcotesia.rotted_bookshelf.name=§cГнилая Книжная Полка
+tooltip.srpcotesia.rotted_bookshelf=§fБолее мощная, жилистая Книжная Полка, вырезанная из §cПоглощенной Древесины§f.
+
+tile.srpcotesia.blood_lotus.name=§cКровавый Лотос
+tooltip.srpcotesia.blood_lotus1=§fПаразитическая насмешка над цветком. Аромат ненормально успокаивающий.
+tooltip.srpcotesia.blood_lotus2=§fНе растёт в воде, несмотря на название. Больше можно вырастить Костной Мукой.
+tooltip.srpcotesia.blood_lotus3=§fИспользуется для крафта §eГуаньдао§f.
+
+
+tile.srpcotesia.beckonh.name=§aРассадник Маяка
+tooltip.srpcotesia.beckonh=§fМожет использоваться для создания §aМаяка§f. Взаимодействуйте, чтобы дать ему биомассу.
+
+tooltip.srpcotesia.dispatchern1=§fМожет использоваться для создания §cИсполнителя§f, или превращён в §aОчки Эволюции§f с приседанием. Взаимодействуйте, чтобы дать ему биомассу.
+tooltip.srpcotesia.dispatchern2=§fПаразиты имеют шанс разместить это, если убьют достаточно врагов.
+tooltip.srpcotesia.dispatchern3=§fТакже может быть создан с помощью §cНакопителя Нидуса§f.
+
+tooltip.srpcotesia.evclock1=§fУказывает текущее количество накопленных очков Глобальной Эволюции, а также текущую Фазу Эволюции.
+tooltip.srpcotesia.evclock2=§fТакже отображает текущую Перезарядку Эволюции, если она активна.
+
+
+
+item.srpcotesia.electroreceptor.name=§eЭлектрорецептор
+tooltip.srpcotesia.electroreceptor=§fМожет быть использован на Паразите для чтения их §cсчётчика убийств§f.
+
+message.srpcotesia.electroreceptor=%s имеет %s убийств.
+message.srpcotesia.electroreceptor.player=%s имеет %s Биомассы и внёс %s убийств.
+
+
+message.srpcotesia.nearbyvenkrol=ПОБЛИЗОСТИ УЖЕ ЕСТЬ ОДИН.
+message.srpcotesia.notready=ТЫ НЕ ГОТОВ. ЕЩЁ НЕТ.
+message.srpcotesia.nonexus=МЫ ЕЩЁ НЕ МОЖЕМ ИХ ДЕЛАТЬ.
+
+tile.srpcotesia.dread_lamp.name=§eЛампа Ужаса
+tooltip.srpcotesia.dread_lamp=§fНе такая прочная, как §eХитин§f, испускает свет.
+
+tile.srpcotesia.cartilage.name=§eХрящ
+tooltip.srpcotesia.cartilage1=§fТёмный, губчатый строительный блок, созданный из блоков §4Биома§f.
+tooltip.srpcotesia.cartilage2=§fНе распространяет §4Биом§f.
+
+tile.srpcotesia.chitin.name=§eХитин
+tooltip.srpcotesia.chitin=§fОчень плотный и прочный блок, подобный §7Обсидиану§f.
+tile.srpcotesia.chitin_slab.name=§eХитиновая Плита
+tile.srpcotesia.chitin_stairs.name=§eХитиновые Ступени
+
+tooltip.srpcotesia.parasitelightsource1=§fПозволяет Паразитам появляться поблизости.
+tooltip.srpcotesia.parasitelightsource2=§fДелает прилегающие источники света приемлемыми.
+
+
+tile.srpcotesia.reclamation_table.name=§bСтол Рекультивации
+tooltip.srpcotesia.reclamation_table.enemy=§fНеобычно холодный блок. Он источает тревожную ауру.
+tooltip.srpcotesia.reclamation_table1=§fОтправляет многие §cпредметы, связанные с Паразитами§f, к §8§kИсточнику§f. Ты будешь награждён §aопытом§f.
+tooltip.srpcotesia.reclamation_table2=§fВзаимодействуйте с блоком, чтобы отправить любые упавшие предметы на нём.
+tooltip.srpcotesia.reclamation_table3=§4МЫ ДАДИМ ИМ НОВЫЙ ДОМ.
+
+message.srpcotesia.reclamation_table.empty=БРОСЬ ПРЕДМЕТ НА ВЕРХ.
+message.srpcotesia.reclamation_table.toomany=СЛИШКОМ МНОГО ПРЕДМЕТОВ. МАКСИМУМ 16 СТАКОВ.
+message.srpcotesia.reclamation_table.fail=МЫ НЕ МОЖЕМ ИСПОЛЬЗОВАТЬ ЭТОТ ПРЕДМЕТ.
+#message.srpcotesia.reclamation_table.failmany=МЫ НЕ МОЖЕМ ИСПОЛЬЗОВАТЬ ЭТИ ПРЕДМЕТЫ.
+
+tile.srpcotesia.inf_crafting_table.name=§e"Верстак"
+tooltip.srpcotesia.craftingtable1=§cСтарые привычки умирают с трудом.
+#tooltip.srpcotesia.craftingtable2=§fМожет быть создан из брёвен дерева найденных в Биоме через §eФабрику§f.
+
+tile.srpcotesia.dendritus.name=§bДендрит
+tile.srpcotesia.dendritus_inactive.name=§bГолодающий Дендрит
+tile.srpcotesia.dendritus_active.name=§bПроцветающий Дендрит
+tooltip.srpcotesia.dendritus1=§fПрочная, волнующаяся масса нервной ткани с плотным ядром из материи Энда.
+tooltip.srpcotesia.dendritus2=§fУсиливает §cИсполнителя§f, чтобы накладывать §1Фазирование§f на Паразитов в радиусе, §aубирая необходимость ломать блоки§f.
+tooltip.srpcotesia.dendritus3=§fДолжен быть передан Исполнителю нажатием %s.
+tooltip.srpcotesia.dendritus4=§fЕсли размещен вручную, может быть активирован нажатием %s.
+
+tile.srpcotesia.bounty.name=§6Сокровище
+tile.srpcotesia.bounty_active.name=§6Активное Сокровище
+tooltip.srpcotesia.bounty1=§f§6Усиленные Существа§f будут размещать §6Сокровища§f для записи известных §cБродяг§f в области. Все §6Сокровища§f в измерении будут делиться данными между собой.
+tooltip.srpcotesia.bounty2=§fВсе §6Усиленные Существа§f, появляющиеся в радиусе, будут разделять эти знания, и их распространённость будет увеличиваться в тандеме.
+
+tooltip.srpcotesia.bountydisabled=§6Сокровища§f сейчас отключены.
+
+message.srpcotesia.bounty.created=§fБыло размещено §6Сокровище§f.
+message.srpcotesia.bounty.notify=§6Сокровище§f было уведомлено о тебе.
+
+tile.srpcotesia.osmosis.name=§bОсмос
+tooltip.srpcotesia.osmosis1=§fМодифицирует §9Заварочные Мешки§f в зависимости от предоставленного §9реагента§f. ПКМ с Мешком или жизнеспособным §9реагентом§f, чтобы поместить его.
+tooltip.srpcotesia.osmosis2=§fЖизнеспособные §9реагенты§f будут показывать свой эффект в подсказке. 
+
+tile.srpcotesia.lithograph.name=§bЛитограф
+tooltip.srpcotesia.lithograph1=§fИзвлекает данные из §dОстанков§f для производства §6Фрагментов Чипа§f. ПКМ с уникальным §dРудиментом§f, чтобы поместить его.
+tooltip.srpcotesia.lithograph2=§fКак только он получит 5 §dРудиментов§f, начнётся извлечение данных.
+
+tile.srpcotesia.lithograph.conflict=Этот Рудимент уже используется.
+tile.srpcotesia.lithograph.full=Нет пустых слотов.
+
+item.srpcotesia.booster_si.name=§6Ускоритель Фазы
+item.srpcotesia.booster_sii.name=§6Сдерживаемый Ускоритель Фазы
+item.srpcotesia.booster_siii.name=§6Несдерживаемый Ускоритель Фазы
+item.srpcotesia.booster_siv.name=§6Очень Даже Несдерживаемый Ускоритель Фазы
+
+tooltip.srpcotesia.booster.flair1=§4ОГОНЬ?
+tooltip.srpcotesia.booster.flair2=§4ЛУЧШЕ.
+tooltip.srpcotesia.booster.flair3=§4...
+tooltip.srpcotesia.booster.flair4=§4АБСУРД.
+
+item.srpcotesia.soulless_core.name=§eБездушное Ядро
+tooltip.srpcotesia.soulless_core1=§eЖивое Ядро§f, истощённое жизненной силой
+tooltip.srpcotesia.soulless_core2=§fМожет использоваться для получения других вариантов ядра без убийства Паразитов. Взаимодействуйте с требуемым Паразитом, удерживая это.
+tooltip.srpcotesia.soulless_core3=§4СРЕДСТВО ДЛЯ ДОСТИЖЕНИЯ ЦЕЛИ..
+
+tooltip.srpcotesia.vengence_core=§cМне следует использовать §eБездушное Ядро§c на §6Адаптированом§c Паразите вместо этого. Не требует убийства.
+tooltip.srpcotesia.wrathful_core=§cМне следует использовать §eБездушное Ядро§c на §eЧистом§c Паразите вместо этого. Не требует убийства.
+
+
+item.srpcotesia.natures_mockery.name=§cНасмешка Природы
+tooltip.srpcotesia.natures_mockery=§fОщутимо тёплый ком плоти. Торчат маленькие ручки, и ты можешь слышать слабый шёпот.
+tooltip.srpcotesia.natures_mockery1=§fСобирает убийства каждый раз, когда его носитель убивает существ. Должен быть на панели быстрого доступа для сбора убийств.
+tooltip.srpcotesia.natures_mockery2=§eУбийства могут быть извлечены для получения %d Биомассы каждое, %d если предмет предварительно заполнен.
+tooltip.srpcotesia.natures_mockery3=§cТекущий счётчик убийств: %d/%d
+tooltip.srpcotesia.natures_mockery4=§4ЭТО ТРЕБУЕТ ДЕЙСТВИЙ. НЕ ПОДХОДИТ ДЛЯ ДОМАШНЕГО РАЗВЛЕЧЕНИЯ.
+
+message.srpcotesia.natures_mockery.empty=Нет сохранённых убийств.
+
+item.srpcotesia.nidus_accumulator.name=§cАккумулятор Нидуса
+tooltip.srpcotesia.nidus_accumulator=§fВздутый струп, напоминающий §cРассадник Исполнителя§f.
+tooltip.srpcotesia.nidus_accumulator1=§fСобирает убийства каждый раз, когда его носитель убивает существ. Должен быть на панели быстрого доступа для сбора убийств.
+tooltip.srpcotesia.nidus_accumulator2=§eЕсли собрано достаточно убийств, он превратится в §cРассадник Исполнителя§f.
+tooltip.srpcotesia.nidus_accumulator3=§cТекущий счётчик убийств: %d/15
+tooltip.srpcotesia.nidus_accumulator4=§4ТВОРЕНИЕ
+
+item.srpcotesia.pristine_matter.name=§aНетронутая Материя
+tooltip.srpcotesia.pristine_matter=§fКом светящейся плоти, добытый из §aМаяка стадии III/IV§f. Используется для крафта.
+
+item.srpcotesia.pact.name=§aПакт
+item.srpcotesia.pact_resolute.name=§aПакт §c(Решительный)
+tooltip.srpcotesia.pact=§fПаразитический свиток неизвестного происхождения.
+tooltip.srpcotesia.pact1=§fМожет использоваться для §4увольнения всех текущих активных Паразитов§f, исключая §aНексус версий§f, в пределах загруженных чанков. Не работает во время Перезарядки Эволюции или на Паразитах, поддерживающих какую-либо структуру.
+tooltip.srpcotesia.pact_resolute1=§fМожет использоваться для §4увольнения всех текущих активных Паразитов§f, исключая §aНексус версий§f, в пределах загруженных чанков. Не работает на Паразитах, поддерживающих какую-либо структуру.
+tooltip.srpcotesia.pact2=§fЕсли используется на §aНексус версии§f, исключая §eФабрики§f, он также уволит все §aНексус версии§f на или ниже её стадии.
+tooltip.srpcotesia.pact3=§fЕсли используется на Паразите, созданном тобой, не-исчезающие Паразиты, созданные тобой, также будут уволены. Опять же, исключая §eФабрики§f, и происходящие вместе с предыдущим.
+tooltip.srpcotesia.pact4=§fБудет сгенерирована §aЖелеза Запаха§f, ссылающаяся на Паразитов высшего уровня, которые были уволены, исключая всё, что пустило корни в землю или созданных тобой. Приседание предотвратит это, не потребляя предмет в процессе.
+tooltip.srpcotesia.pact_resolute4=§cНе потребляется. §aЖелеза Запаха§c не будет сгенерирована.
+tooltip.srpcotesia.pact5=§4ОБОСНОВАНИЕ ЭТОЙ КОНЦЕПЦИИ БЫЛО СЛОЖНОЙ ЗАДАЧЕЙ.
+
+message.srpcotesia.pact.empty=Нет Паразитов, которых можно уволить.
+message.srpcotesia.pact.emptyscentremoved=§cНет Паразитов, которые могли бы наполнить запах, но Паразиты были удалены.
+
+item.srpcotesia.scent_gland.name=§aЖелеза Запаха
+tooltip.srpcotesia.scent_gland=§fНапоминает Перец или светящийся Чернильный Мешок. Пахнет ужасно.
+tooltip.srpcotesia.scent_gland1=§cПахнет как оружие.
+tooltip.srpcotesia.scent_gland2=§fНе работает, если текущая Фаза Эволюции не позволяет Запахи или Коллективное Сознание.
+tooltip.srpcotesia.scent_gland3=§fАтака сущности с этим призывает следующих Паразитов:
+tooltip.srpcotesia.scent_gland.empty=§fНет записанных Паразитов. Используйте §aПакт§f для создания proper one.
+
+item.srpcotesia.moldered_segments.name=§eИстлевшие Сегменты
+tooltip.srpcotesia.moldered_segments1=§fПара выброшенных кусков плоти. Кажутся бесполезным.
+tooltip.srpcotesia.moldered_segments2=§cЕму нужен §aМаяк стадии I§c.
+tooltip.srpcotesia.moldered_segments3=§4ПОДАРОК, КОТОРОМУ ДАЛИ ВРЕМЯ НА ГНИЕНИЕ. ПОСМОТРИМ, ЧТО ТЫ СДЕЛАЕШЬ ИЗ ЭТОГО.
+
+item.srpcotesia.trojan_note.name=Заслуженное Письмо
+tooltip.srpcotesia.trojan_note=СРОЧНО
+tooltip.srpcotesia.trojan_note1=§4ОНА ДОЛЖНА БЫЛА ТЕБЯ УБИТЬ
+tooltip.srpcotesia.trojan_note2=§4ПОЧЕМУ ТЫ КАЖЕШЬСЯ НЕВОЗМУТИМЫМ ЭТИМ
+
+tooltip.srpcotesia.faustian_note.kills=§f§oНачните с §a%s очков§f при использовании.
+
+item.srpcotesia.faustian_note.name=Письмо Фауста
+tooltip.srpcotesia.faustian_note.other=§fИнтересно, а что если?
+tooltip.srpcotesia.faustian_note1=§cНе зависит от текущей Фазы Эволюции.
+tooltip.srpcotesia.faustian_note2=§4ЕЩЁ ОДИН?
+#{guandaoData:{coating:'iron'}}
+coating.srpcotesia.empty.name=§7ПОКРЫТИЕ ОТСУТСТВУЕТ
+coating.srpcotesia.flint.name=§7Покрытый Кремнием
+coating.srpcotesia.quartz.name=§fПокрытый Кварцем
+coating.srpcotesia.prismarine.name=§3Покрытый Призмарином
+coating.srpcotesia.iron.name=§fПокрытый Железом
+coating.srpcotesia.gold.name=§6Покрытый Золотом
+coating.srpcotesia.diamond.name=§bПокрытый Алмазом
+coating.srpcotesia.srparasites_hivesteel.name=§4Покрытый Сталью Улья
+coating.srpcotesia.oresabovediamonds_amethyst.name=§dПокрытый Аметистом
+coating.srpcotesia.oresabovediamonds_black_opal.name=§7Покрытый Чёрным Опалом
+coating.srpcotesia.iceandfire_dragonbone.name=§8Покрытый Костью Дракона
+coating.srpcotesia.iceandfire_iced_dragonbone.name=§bПокрытый Костью Ледяного Дракона
+coating.srpcotesia.iceandfire_lightning_dragonbone.name=§5Покрытый Костью Электрического Дракона
+
+# The long item id is for internal reasons. That and the impossible chance other mods make Guandao tiers.
+item.srpcotesia.srpcotesia_guandao_sparse_chitin.name=§7Гуаньдао из Редкого Хитина
+item.srpcotesia.srpcotesia_guandao_marrow.name=§4Гуаньдао из Костного Мозга
+item.srpcotesia.srpcotesia_guandao_malformed_bone.name=§cДеформированное Гуаньдао
+item.srpcotesia.srpcotesia_guandao_reformed_bone.name=§6Гуаньдао из Реформированной Кости
+item.srpcotesia.srpcotesia_guandao_vigilant_bone.name=§eГуаньдао из Бдительной Кости
+
+tooltip.srpcotesia.guandao.tier=Влияет только на Паразитов Уровня %s или ниже
+
+
+tooltip.srpcotesia.guandao.repair=§eМожет быть починено с %s
+
+tooltip.srpcotesia.guandao=§eУдерживайте LSHIFT для дополнительной информации
+tooltip.srpcotesia.guandao1=§fПассивно испускает §cБлаговония§f, которые уменьшают получаемый урон Паразитами вокруг игрока. Должно быть на панели быстрого доступа.
+tooltip.srpcotesia.guandao2=§fСнижение урона, выделенное §cкрасным§f, применяется только если атакующий был поражён этим оружием, и ты держишь его. В противном случае используется уменьшенное значание.
+tooltip.srpcotesia.guandao3=§fКогда сущность поражена этим оружием, она будет получать увеличенный урон от Паразитов на основе Урона Метки этого оружия.
+tooltip.srpcotesia.guandao4=§fПаразиты, которые атакуют быстрее, обычно наносят меньше урона Метки.
+tooltip.srpcotesia.guandao5=§fПокрытие, использованное при крафте оружия, определяет Урон Метки. Покрытия можно менять в сетке крафта, как и материал Клинка.
+
+tooltip.srpcotesia.guandao.DR=§fОбеспечивает %s%% §c(%s%%)§f Снижения Урона ближайшим Паразитам
+tooltip.srpcotesia.guandao.tagCap=§4Урон Метки ограничен %s%% урона Паразита
+tooltip.srpcotesia.guandao.tagMulti=§f%sx Множитель Урона Метки
+tooltip.srpcotesia.guandao.lifesteal=§fПаразиты исцеляются на §c~%s%%§f от нанесённого урона
+
+tooltip.srpcotesia.guandao.judgemental=§fАномально тяжёлое двуручное оружие, созданное §cБродягой§f.
+
+tooltip.srpcotesia.coating=§9 %d Базовый Урон Метки
+
+tooltip.srpcotesia.dragonblood_coating1=§9 x%d Урон Метки против Драконов
+tooltip.srpcotesia.dragonblood_coating2_0=§9 Атаки Бродяг и Паразитов наследуют свойства Оружия из §bЛедяной Крови Дракона
+tooltip.srpcotesia.dragonblood_coating2_1=§9 Атаки Бродяг и Паразитов наследуют свойства Оружия из §5Электрической Крови Дракона
+
+tooltip.srpcotesia.quartz_coating=§9 %dx Урон Метки в Незере
+tooltip.srpcotesia.prismarine_coating=§9 %dx Урон Метки в Воде или под Дождём
+
+tooltip.srpcotesia.guandao_material=§eМатериал Клинка Гуаньдао
+
+item.srpcotesia.sparse_chitin.name=§7Редкий Хитин
+tooltip.srpcotesia.sparse_chitin=§fФрагмент защитного покрытия §7Руптера§f.
+
+item.srpcotesia.marrow_chunk.name=§4Кусок Костного Мозга
+tooltip.srpcotesia.marrow_chunk=§fПлотный кусок свернувшегося костного мозга из §4Незавершённой Формы§f.
+
+item.srpcotesia.malformed_bone.name=§cДеформированная Кость
+tooltip.srpcotesia.malformed_bone=§fПокрытая кожей кость, напоминающая §cПримитивного§f Паразита. Она согнута.
+
+item.srpcotesia.reformed_bone.name=§6Реформированная Кость
+tooltip.srpcotesia.reformed_bone=§fПокрытая кожей кость, напоминающая §6Адаптированного§f Паразита. Она не согнута.
+
+item.srpcotesia.vigilant_bone.name=§eБдительная Кость
+tooltip.srpcotesia.vigilant_bone=§fКость с закреплёнными частями от §eЧистого§f Паразита.
+
+item.srpcotesia.mirewood_stick.name=§7Палка из Утопленного Дерева
+tooltip.srpcotesia.mirewood_stick=§fПрочный "деревянный" стержень. Используется для крафта §7Шеста из Утопленного Дерева§f.
+
+item.srpcotesia.mirewood_pole.name=§7Шест из Утопленного Дерева
+tooltip.srpcotesia.mirewood_pole=§fПрочная "деревянная" двуручная рукоять.
+tooltip.srpcotesia.mirewood_pole1=Используется для крафта §eГуаньдао§f.
+
+item.srpcotesia.vigilante_kneecap.name=§eНаколенник Линчевателя
+tooltip.srpcotesia.vigilante_kneecap=§fФрагмент бронепластины от §eЛинчевателя§f.
+
+message.srpcotesia.hasmaxbiomass=Ты не можешь хранить больше Биомассы.
+
+message.srpcotesia.trade.tierfail=Для этого нужна Фабрика Уровня %d.
+message.srpcotesia.trade.more=Нужно ещё %d Биомассы.
+
+message.srpcotesia.nodrops=Ничего полезного.
+message.srpcotesia.scalpelbreak=Ломать скальпель об это - ужасная идея.
+
+message.srpcotesia.brew.cost=Тебе нужно %d Биомассы для пополнения этого.
+
+message.srpcotesia.lure=Смерть не будет забирать Очки Эволюции в течение %s секунд.
+message.srpcotesia.lure.notenough=Тебе нужно внести %s очков, чтобы использовать эту Приманку.
+message.srpcotesia.lure.redundant=Смерть уже отсрочена. Попробуйте снова через %s секунд.
+
+tooltip.srpcotesia.lure0=§cДелает нечто совершенно иное для тебя.
+tooltip.srpcotesia.lure1=§fЗа стоимость %s внесённых очков, это предотвратит вычитание §aОчков Эволюции§f смертью на %s секунд, приблизительно.
+
+message.srpcotesia.darwin=%s был успешно номинирован Премии Дарвина
+
+message.srpcotesia.death=ОБУЧАЮЩИЙ ОПЫТ.
+
+message.srpcotesia.unlock.latch=Захват разблокирован. Работает как лассо наносящий урон.
+message.srpcotesia.unlock.orb=Сфера разблокирована. Накладывает эффекты в области.
+message.srpcotesia.unlock.succor=§aПризыв Помощника разблокирован. Заменяет §cСферу§a если активен.
+message.srpcotesia.unlock.leap=§bРывок разблокирован. Быстро перемещает тебя вперёд.
+message.srpcotesia.unlock.leer=§4Пристальный взгляд разблокирован. Направляет движение и устанавливает цель Паразитам.
+message.srpcotesia.unlock.leernak=§4Пристальный взгляд теперь может призывать Хватателей.   
+message.srpcotesia.unlock.climbing=§7Лазание по стенам разблокировано. Работает только когда не скрыт.
+message.srpcotesia.unlock.hiding=§7Скрытие разблокировано. Облачает тебя в твою ложную кожу.
+
+message.srpcotesia.notekill=ЗАКЛЮЧЕНИЕ.
+message.srpcotesia.watched0=ТЕМ НЕ МЕНЕЕ, ВЫ НАСТОЙЧИВЫ. РАЗДРАЖАЕТ.
+message.srpcotesia.watched1=ОДНАКО, ЭТО ПРЕДСТАВЛЯЕТ НОВУЮ ВОЗМОЖНОСТЬ.
+message.srpcotesia.watched2=ЕСТЬ ДРУГИЕ СПОСОБЫ ПОГЛОТИТЬ ДУШУ.
+message.srpcotesia.watched3=ВЫ БУДЕТЕ ПЕРЕПРОФИЛИРОВАНЫ.
+message.srpcotesia.infected=НЕ РАЗОЧАРОВЫВАЙ.
+message.srpcotesia.failure=И ЭТО ЗАКАНЧИВАЕТСЯ.
+
+message.srpcotesia.bloomupgrade=ДА БУДЕТ ВОЛЯ ТВОЯ.
+message.srpcotesia.bloomupgradebeckon=ПРИПОДНИМАЙ ТЕМП.
+
+message.srpcotesia.storenexus=ПРЕКРАТИ ЭТО!
+message.srpcotesia.bind.preeeminent=МОНУМЕНТ НАШИХ ГРЕХОВ.
+message.srpcotesia.dissolve.preeeminent=СЕРЬЁЗНО?
+
+message.srpcotesia.advdisabled=ПРОДОЛЖАЙ.
+message.srpcotesia.alreadyinfected=НЕТ ДВОЙНОЙ ОПАСНОСТИ.
+
+message.srpcotesia.notefailphase=Оно захлопывается. Должно быть, они сочли это излишним.
+message.srpcotesia.notefaildim=Оно не поддаётся. Кажется слабее в этом измерении.
+message.srpcotesia.notefailday=Оно не поддаётся. Может, попробовать снова, когда станет темнее?
+message.srpcotesia.notefailpossessing=Письмо кажется смущённым. Вы должны оказаться в своём изначальном сосуде.
+message.srpcotesia.notefailmoon=Оно не поддаётся. Возможно, фаза луны неподходящая.
+message.srpcotesia.notefail=Оно не поддаётся. Может, попробовать снова позже?
+#message.srpcotesia.rpl=Вы чувствуете внезапную пустоту...
+#message.srpcotesia.rpl.burning=Жгучая боль обжигает твою голову...
+message.srpcotesia.well.subtract=§6Колодец§f украл очки.
+
+message.srpcotesia.addpoints=Успешно добавлено %d очков эволюции!
+message.srpcotesia.evocooldown=Эволюция сейчас на перезарядке..
+message.srpcotesia.getpoints=Сейчас Фаза %d, с %d всего очков.
+message.srpcotesia.getpointscooldown=Сейчас Фаза %d, с %d всего очков. Мы перезаряжаемся в течение %d секунд.
+message.srpcotesia.suffocate=Он задохнётся, если разместить его здесь.
+message.srpcotesia.nobelong=Он не принадлежит тебе.
+message.srpcotesia.nosalvage=Его нельзя спасти.
+message.srpcotesia.cantupgrade=Нужно больше Биомассы для его улучшения. (Присядьте, чтобы поглотить её)
+message.srpcotesia.enchantblock=Зачарования несовместимы с этим.
+message.srpcotesia.cantdissolve=Этот Паразит не может быть растворён.
+message.srpcotesia.unworthy.tier=Тебе нужен %d Уровень для взаимодействия с ним.
+message.srpcotesia.cantbind=Фабрика не может этого постичь.
+message.srpcotesia.somethingwrong=С этим Паразитом что-то не так.
+message.srpcotesia.dispatcher.empty=Данный Исполнитель пуст.
+message.dendritus.inrange=Уже есть Дендрит на %d, %d, %d
+
+message.srpcotesia.following=Этот Паразит теперь следует за тобой.
+message.srpcotesia.following.deterrent=Этот Паразит следовал бы за тобой, если бы мог.
+message.srpcotesia.following.factory=Паразиты, созданные этой Фабрикой, будут следовать за тобой.
+message.srpcotesia.notfollowing=Этот Паразит больше не следует за тобой.
+message.srpcotesia.notfollowing.deterrent=Этот Паразит больше не следовал бы за тобой, если бы мог.
+message.srpcotesia.notfollowing.factory=Паразиты, созданные этой Фабрикой, будут вести себя нормально.
+message.srpcotesia.saddled=Этот Паразит теперь оседлан.
+message.srpcotesia.didntmake=Ты его не создавал.
+message.srpcotesia.attached=Это было бы бессмысленно.
+
+message.srpcotesia.masticator.empty=Тебе нужны Зловонные "Канистры" для работы с этим.
+
+gui.srpcotesia.trojan_note.context=Что-то сверкает в тёмных глубинах письма.
+gui.srpcotesia.trojan_note.warning0=§4Вы чувствуете, что здесь что-то крайне неправильное.
+gui.srpcotesia.trojan_note.warning1=§4Вы чувствуете, что что-то будет потеряно, если вы продолжите.
+gui.srpcotesia.trojan_note.warning2=§4Потеряно навсегда.
+
+gui.srpcotesia.trojan_note.question=§4Потянуть руку и достать это?
+
+gui.srpcotesia.trojan_note.accept=§eВперёд
+gui.srpcotesia.trojan_note.deny=§4Закрыть
+
+
+gui.srpcotesia.mallmenu.pb0=Фаза
+gui.srpcotesia.mallmenu.pb1=Ускоритель
+gui.srpcotesia.mallmenu.adapt=Адаптации (%d/%d)
+gui.srpcotesia.mallmenu.armoradapt=Адаптации Брони (%d/%d)
+
+gui.srpcotesia.mallmenu.notyet=Перейти к %d
+gui.srpcotesia.mallmenu.cantadapt=Не может адаптироваться
+gui.srpcotesia.mallmenu.adaptdisabled=Адаптации (Н/Д)
+gui.srpcotesia.mallmenu.regen=Регенерация... (%d секунд)
+gui.srpcotesia.mallmenu.requestcolony=Запросить Адаптации Колонии
+
+gui.srpcotesia.hi_enchanting_table.nolevels=<1
+gui.srpcotesia.hi_enchanting_table.biomass=%d Биомассы
+
+gui.jei.category.srpcotesia.factory.biomass=§4Требуется %d Биомассы
+gui.jei.category.srpcotesia.factory.tierabove=Уровень %d+
+gui.jei.category.srpcotesia.factory.pts=§4+%d Очков Эволюции
+gui.jei.category.srpcotesia.factory=§4Торговля с Фабрикой
+gui.jei.category.srpcotesia.parasite_transmute=§cТрансмутация Паразита
+gui.jei.category.srpcotesia.parasite_transmute.info=Использовать на %s
+gui.jei.category.srpcotesia.lithography=§bЛитография
+gui.jei.category.srpcotesia.lithography.warning1=Показанные комбинации являются примерами, не требуются.
+gui.jei.category.srpcotesia.lithography.warning2=Порядок не имеет значения. Подойдёт любой уникальный набор из 5.
+
+gui.jei.category.srpcotesia.osmosis=§bОсмосное Заваривание
+gui.jei.category.srpcotesia.reclamation=§bРекультивация
+gui.jei.category.srpcotesia.reclamation.xp=§4+%d ОП
+
+enchantment.srpcotesia.rarefaction=§2Разрежение
+enchantment.srpcotesia.rarefaction.desc=§fУменьшает шанс того, что Измельчитель потребит Зловонную Канистру.
+
+enchantment.srpcotesia.fluidity=Текучесть
+enchantment.srpcotesia.fluidity.desc=§fУменьшает время, необходимое Фабрике для появления Паразитов.
+
+enchantment.srpcotesia.dense_tissue=§bПлотная Ткань
+enchantment.srpcotesia.dense_tissue.desc=§fЗаставляет Паразитов, созданных Фабрикой, иметь больше максимального здоровья.
+
+enchantment.srpcotesia.flaying=§5Свежевание
+enchantment.srpcotesia.flaying.desc=§fЗаставляет Паразитов, созданных Фабрикой, иметь больше урона атаки.
+
+enchantment.srpcotesia.tachysensia=§8Тахисенсия
+enchantment.srpcotesia.tachysensia.desc=§fЗаставляет Паразитов, созданных Фабрикой, иметь больше скорости движения.
+
+enchantment.srpcotesia.bulwark=§bБастион
+enchantment.srpcotesia.bulwark.desc=§fЗаставляет Паразитов, созданных Фабрикой, иметь больше брони и прочности брони.
+
+enchantment.srpcotesia.cunning=§eХитрость
+enchantment.srpcotesia.cunning.desc=§fУвеличивает Минимальный Урон, наносимый созданными Паразитами.
+
+enchantment.srpcotesia.throwing=Улучшение: Метание
+enchantment.srpcotesia.throwing.desc=§fПрименяется к Фабрикам Кифоза. Заставляет Кифоза бросать ближайших Паразитов во врагов.
+
+enchantment.srpcotesia.acid_bath=Улучшение: §aКислотная Ванна
+enchantment.srpcotesia.acid_bath.desc=§fПрименяется к Фабрикам Призраков. Значительно увеличивает размер и силу Гранат, создаваемых Призраком.
+
+enchantment.srpcotesia.virulent=§aВирусный
+enchantment.srpcotesia.virulent.desc=§fЗаставляет определённых Паразитов накладывать §aВирусность§f при контакте.
+
+enchantment.srpcotesia.berzerking=§4Берсерк
+enchantment.srpcotesia.berzerking.desc=§fЗаставляет определённых Паразитов накладывать §4Кровотечение§f при атаке.
+
+enchantment.srpcotesia.breaching=§5Пробивание
+enchantment.srpcotesia.breaching.desc=§fЗаставляет определённых Паразитов ломать более прочные блоки.
+
+enchantment.srpcotesia.deviantive=Отклоняющийся
+enchantment.srpcotesia.deviantive.desc=§fЗаставляет определённых Паразитов становиться отклоняющимися формами, с разными характеристиками.
+
+enchantment.srpcotesia.defiled=§eОсквернённый
+enchantment.srpcotesia.defiled.desc=§fЗаставляет Руптеров... ну...
+
+enchantment.srpcotesia.undying=§aБессмертный
+enchantment.srpcotesia.undying.desc=§fЗаставляет Фабрики выпадать сами при смерти, а не расстворяться.
+
+enchantment.srpcotesia.diffusion=Диффузия
+enchantment.srpcotesia.diffusion.desc=§fЗаставляет благовония Гуаньдао пассивно накладывать любые эффекты зелий, которые есть у владельца, на других Паразитов. Эффекты сохраняются только пока применяется благовоние.
+
+enchantment.srpcotesia.hive_protection=Защита Улья
+enchantment.srpcotesia.hive_protection.desc=§fУменьшает урон, который принимают облагороженные Паразиты.
+
+enchantment.srpcotesia.adv_hive_protection=Продвинутая Защита Улья
+enchantment.srpcotesia.adv_hive_protection.desc=§fУменьшает урон, который принимают облагороженные Паразиты. Более эффективно.
+
+overlay.srpcotesia.sneak=Присесть + %s
+
+message.srpcotesia.cannothide=Ты сейчас не можешь изменить форму.
+message.srpcotesia.cannothide.latch=§cЗахват§f должен быть сначала убрана.
+message.srpcotesia.latchconflict=§cКонфликтует§f конфликтует с этим.
+message.srpcotesia.orb.active=У тебя уже активна §cСфера§f.
+message.srpcotesia.succor.active=У тебя уже активен §aПомощник§f или §cСфера§f.
+message.srpcotesia.orb.disabled=У Игроков отключены §cСферы§f.
+message.srpcotesia.succor.disabled=У Игроков отключены §aПомощники§f.
+message.srpcotesia.latch.disabled=§cЗахват§f отключен.
+message.srpcotesia.leap.disabled=§bРывок§f отключен.
+message.srpcotesia.leer.disabled=§4Пристальный взгляд§f отключен.
+
+message.srpcotesia.latch.notyet=Ты ещё не можешь создать §cЗахват§f.
+message.srpcotesia.orb.notyet=Ты ещё не можешь создать §cСферу§f.
+message.srpcotesia.succor.notyet=Ты ещё не можешь создать §aПомощника§f.
+message.srpcotesia.leap.notyet=Ты ещё не можешь делать §bРывки§f.
+message.srpcotesia.leer.notyet=Ты ещё не можешь §dПристально смотреть§f.
+message.srpcotesia.leer.fail=Поблизости добровольно подчиняющихся Паразитов.
+message.srpcotesia.leer.immortal=Его нельзя ранить.
+message.srpcotesia.orb.notenough=Тебе нужно %d Биомассы, чтобы выпустить §cСферу§f.
+message.srpcotesia.succor.notenough=Тебе нужно %d Биомассы, чтобы призвать §aПомощника§f.
+message.srpcotesia.latch.cantstore=Ты не можете хранить это.
+message.srpcotesia.latch.cantstoreyet=Ты недостаточно силён, чтобы хранить в себе Паразитов.
+
+message.srpcotesia.reclamation.notenough=Тебе нужно %d Биомассы, чтобы отправлять предметы.
+
+message.srpcotesia.factory.insufficient=Тебе нужно %d биомассы, чтобы сделать Фабрику (Сейчас у тебя %d)
+message.srpcotesia.notifyColony=Отправлено %s в ближайшую Колонию.
+
+message.srpcotesia.gui.nocolony=У НАС НЕТ КОЛОНИЙ.
+message.srpcotesia.gui.alreadyhaveres=ВЫ УЖЕ ЗНАЕТЕ ЭТУ АДАПТАЦИЮ.
+message.srpcotesia.gui.notrecorded=У НАС ПОКА НЕТ ЗАПИСИ О КОНКРЕТНОЙ АДАПТАЦИИ.
+
+message.srpcotesia.gui.outofslots=ВЫ ЗНАЕТЕ СЛИШКОМ МНОГО АДАПТАЦИЙ.
+
+message.srpcotesia.canspawn=Ты чувствуешь присутствие ослабленных врагов.
+message.srpcotesia.cantspawn=Ты чувствуешь, как ослабленные враги отступают.
+
+message.srpcotesia.factoryenchanted=Этот предпочитает сохранить свои зачарования.
+
+item.srpcotesia.guide_book.name=§eГипербиология и Вы
+tooltip.srpcotesia.guide_book.subtext=Документация по Паразитам и их возможностям.
+tooltip.srpcotesia.guide_book.author=От Доктора Ричарда Хензина
+tooltip.srpcotesia.guide_book.modified=В книге не хватает многих страниц, и кажется, что на оставшихся §cБродягах§f написал.
+tooltip.srpcotesia.guide_book.flavor1=§cБольшинство страниц было вырвано, за исключением тех, что обо мне.
+tooltip.srpcotesia.guide_book.flavor2=§4ЧТО-ТО ОЧЕНЬ НЕ ТАК С ЭТОЙ КНИГОЙ. ОНА ССЫЛАЕТСЯ НА СОБЫТИЯ, КОТОРЫЕ МЫ НЕ ПОМНИМ.
+tooltip.srpcotesia.guide_book.disabled=Установите Patchouli чтобы использовать этот предмет!
+
+message.srpcotesia.infect=Ты успешно заразил существо. (+%d)
+
+message.srpcotesia.hyperarmor=Мне нужно бить их сильнее!
+message.srpcotesia.defense=Продолжайте атаковать. Осталось %d защиты.
+message.srpcotesia.nodefense=Продолжайте атаковать.
+#message.srpcotesia.catchup=Очки, которые я получаю, не имеют никакого значения, поскольку Эволюция на перезаядке.
+
+message.srpcotesia.dissolution.possess=Этот несовместим.
+message.srpcotesia.dissolution.nothing=Этот не сработает.
+message.srpcotesia.dissolution.possessing=ОН ОСВОБОДИЛ ДЛЯ НАС МЕСТО. БУДЬТЕ БЛАГОДАРНЫ.
+
+message.srpcotesia.bounty.intervention=Тебя что-то преследует
+
+
+message.srpcotesia.trauma=§7Травма§f овладевает (осталось %d звонов)
+message.srpcotesia.trauma.lastchance=§7Травма§f овладевает §c(Ты умрёшь)§f
+message.srpcotesia.trauma.reduced=§7Травма§f уменьшенаd
+
+message.srpcotesia.trauma.death=Этому не суждено было случиться
+
+message.srpcotesia.nodeDestroyed=§6Узел Уничтожен
+message.srpcotesia.colonyDestroyed=§6Колония Уничтожена
+message.srpcotesia.dendritusDestroyed=§6Дендрит Уничтожен
+
+subtitles.threat.well=§6Колодец§f образуется
+subtitles.threat.bounty=§6Сокровище§f размещено
+subtitles.threat.saltine=§6Соль§f размещена
+subtitles.threat.destruction=Ядро Паразитической Структуры §6засолено§f
+subtitles.threat.trauma=§7Травма§f овладевает
+subtitles.threat.discovered=§6Усиленное Существо§f обнаруживает §cБродягу§f
+
+gui.srpcotesia.guide_book.name=§eГипербиология и Вы
+gui.srpcotesia.guide_book.landingtext=Своего рода подготовительная энциклопедия о Паразитах и их возможностях.$(br2)$(#630000)Книга по существу менее полезна, если вырывать 90% страниц. Эта штука выглядит больше как папка, чем книга.$(br)Не то чтобы это меня остановило от добавления своих заметок, конечно.
+gui.srpcotesia.guide_book.subtitle=Том 8

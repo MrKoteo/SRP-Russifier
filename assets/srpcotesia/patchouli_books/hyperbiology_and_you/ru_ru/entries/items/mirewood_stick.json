@@ -1,0 +1,23 @@
+{
+  "name": "Палка/Шест Утопленного Дерева",
+  "icon": "srpcotesia:mirewood_stick",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:mirewood_stick",
+      "text": "$(#630000)Подобно Кровавому Лотосу, этот предмет служит паразитическим аналогом Палки, производимым схожими методами."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "srpcotesia:mirewood_pole",
+      "text": "$(#630000)Если несколько таких объединить в шест, он будет работать как рукоять для $(l:items/guandao)Гуаньдао$()$(#630000)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "srpcotesia:mirewood_pole"
+    }
+  ]
+}
