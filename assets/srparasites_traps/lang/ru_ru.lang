@@ -1,0 +1,86 @@
+#PARSE_ESCAPES
+# Tiles
+tile.srparasites_traps.sentry_turret.name=§6Сторожевая турель§f
+tile.srparasites_traps.relocator.name=§6Релокатор§f
+tile.srparasites_traps.biomass_factory.name=§6Фабрика биомассы§f
+tile.srparasites_traps.serrated_spikes.name=Зубчатые шипы
+tile.srparasites_traps.burning_serrated_spikes.name=§6Горящие§f зубчатые шипы
+tile.srparasites_traps.viral_serrated_spikes.name=§aВирусные§f зубчатые шипы
+tile.srparasites_traps.decontaminator.name=§6Дезактиватор§f
+tile.srparasites_traps.obsidian_ladder.name=Обсидиановая лестница
+tile.srparasites_traps.obsidian_slab.name=Обсидиановая плита
+tile.srparasites_traps.tesla_coil.name=§6Катушка Теслы§f
+tile.srparasites_traps.proximity_sensor.name=§6Датчик приближения§f
+tile.srparasites_traps.static_electricity_generator.name=Генератор статического электричества
+
+# Items
+item.srparasites_traps.two_way_communication_unit.name=Двусторонний коммуникационный блок
+item.srparasites_traps.parasitic_matter.name=§bПаразитическая материя§f
+item.srparasites_traps.area_marker.name=Маркер области
+item.srparasites_traps.dispatcher_brainstem.name=§cСтвол мозга Диспетчера§f
+item.srparasites_traps.dispatcher_cerebrum.name=§cМозг Диспетчера§f
+item.srparasites_traps.armored_semi_organic_plating.name=Бронированная полуорганическая обшивка
+item.srparasites_traps.biomass_storage_unit.name=Блок хранения биомассы
+item.srparasites_traps.hatch.name=Люк
+item.srparasites_traps.beckon_heart.name=§aСердце Призыва§f
+item.srparasites_traps.hardness_analyzer.name=Анализатор твёрдости
+item.srparasites_traps.antenna.name=Антенна
+item.srparasites_traps.coil.name=Катушка
+item.srparasites_traps.attack_speed_augment.name=Улучшение скорости атаки
+item.srparasites_traps.range_augment.name=Улучшение дальности
+item.srparasites_traps.damage_augment.name=Улучшение урона
+
+# Tooltips
+tooltip.srparasites_traps.item.two_way_communication_unit=§8Микросхема, предназначенная для обеспечения двусторонней связи между механическими устройствами и паразитическими сущностями.§f
+tooltip.srparasites_traps.item.parasitic_matter=Материя, которая превращается в различных паразитов с помощью §cДиспетчеров§f.
+tooltip.srparasites_traps.item.sentry_turret=Механико-биологическое устройство, действующее подобно сдерживающему паразиту §cСтраж§f, создаваемому диспетчерами. Требует §aМёртвую кровь§f и §4энергию§f для работы.
+tooltip.srparasites_traps.item.relocator=Машина, воспроизводящая наступательные способности §cДиспетчера§f. Призывает §cЗахватчиков§f для принудительного задержания целей в заданной области поиска и перемещения их в новое место. Требует §aМаркер области§f для определения координат, а также §aМёртвую кровь§f и §4энергию§f для работы.
+tooltip.srparasites_traps.item.area_marker.base=Может быть помещён в некоторые ловушки для изменения их области действия. Щелкните ПКМ с предметом в руке, чтобы определить §aобласть§f.
+tooltip.srparasites_traps.item.area_marker.area_defined=§cОбласть (x: %d до %d, y: %d до %d, z: %d до %d)§f
+tooltip.srparasites_traps.item.dispatcher_brainstem=Важная часть мозга §cДиспетчера§f, которая каким-то образом осталась нетронутой.
+tooltip.srparasites_traps.item.dispatcher_cerebrum=Важная часть мозга §cДиспетчера§f, которая каким-то образом осталась нетронутой.
+tooltip.srparasites_traps.item.serrated_spikes=Ловушка с острыми зазубренными шипами, выступающими из неё. Наносит больше урона, чем быстрее кто-то движется по ней, и вызывает §cКровотечение§f.
+tooltip.srparasites_traps.item.burning_serrated_spikes=Ловушка с острыми зазубренными шипами, покрытыми горящим веществом. Наносит больше урона при быстром движении, вызывает §cКровотечение§f и поджигает врагов на §6огонь§f на короткое время.
+tooltip.srparasites_traps.item.viral_serrated_spikes=Ловушка с острыми зазубренными шипами, покрытыми §aзеленым слизеподобным веществом§f. Наносит больше урона при быстром движении, вызывает §cКровотечение§f и накладывает §aВирус§f на короткое время.
+tooltip.srparasites_traps.item.biomass_factory=Машина, использующая силу §aПризыва§f для создания сущности, из которой состоят все паразиты. Потребляет §cпаразитическую материю§f для создания §aМёртвой крови§f.
+tooltip.srparasites_traps.item.beckon_heart=Важная часть §aПризыва§f, которая каким-то образом осталась нетронутой.
+tooltip.srparasites_traps.item.decontaminator=Машина, которая избавляет любого ближайшего игрока от эффектов §aВируса§f и §4Зова улья§f. §8Подождите... Неужели это просто опрыскивает вас молоком? Как это может вылечить Вирус или Зов улья?§f.
+tooltip.srparasites_traps.item.tesla_coil=Высоковольтное устройство, наносящее удары любому несчастному (включая вас), который окажется достаточно близко. Отлично подходит для борьбы с §cбольшими ордами§f.
+tooltip.srparasites_traps.item.proximity_sensor=Обнаруживает ближайших паразитов с помощью выделяемых феромонов, которые реагируют с содержащейся материей. Подаёт сигнал редстоуна при реакции.
+tooltip.srparasites_traps.item.hardness_analyzer=Показывает твёрдость блоков и то, какой уровень паразитов может их разрушить.
+tooltip.srparasites_traps.item.coil=§8Смесь железа и алмазов для максимальной пропускной способности электричества (не спрашивайте о смене цвета).§f
+tooltip.srparasites_traps.item.static_electricity_generator=Использует энергию, исходящую от ядер призывателей и сфер пожирателей, для питания катушек Теслы снизу. §8Согласно надписи, изначально эти устройства производились компанией "HBM Technologies".§f
+tooltip.srparasites_traps.item.attack_speed_augment=Увеличивает скорость атаки некоторых турелей.
+tooltip.srparasites_traps.item.range_augment=Увеличивает дальность некоторых турелей.
+tooltip.srparasites_traps.item.damage_augment=Увеличивает урон некоторых турелей.
+tooltip.srparasites_traps.item.augment_general=Может быть помещён в один из слотов улучшений в следующих турелях:\n%s
+tooltip.srparasites_traps.item.armored_semi_organic_plating=§8Обшивка, служащая мостом для паразитических сигналов, обладающая высокой устойчивостью к внешним повреждениям.§f
+
+# Status Messages
+status.srparasites_traps.area_marker.area_too_big=§cОбласть превышает лимит в %s блоков.§f
+status.srparasites_traps.area_marker.invalid_areas=§cНепривязанная область или слишком большое расстояние (> %s блоков).§f
+status.srparasites_traps.area_marker.set_position=Установлена позиция (%s, %s, %s).
+status.srparasites_traps.area_marker.remove_positions=Удалены связанные позиции.
+status.srparasites_traps.proximity_sensor.area_too_far_away=Область слишком далеко от исходного блока (Макс: %s блоков).
+status.srparasites_traps.proximity_sensor.area_not_bound=Область не привязана к маркеру области.
+
+# Subtitles
+subtitle.srparasites_traps.decontaminator_spray=Дезактиватор распыляет
+subtitle.srparasites_traps.decontaminator_open=Дезактиватор открывается
+subtitle.srparasites_traps.decontaminator_close=Дезактиватор закрывается
+subtitle.srparasites_traps.tesla_coil_charge=Катушка Теслы заряжается
+subtitle.srparasites_traps.tesla_coil_fire=Катушка Теслы стреляет
+subtitle.srparasites_traps.electric_arc=Электрическая дуга
+
+# Potions
+potion.srparasites_traps.shocked=Шок
+
+# Slot descriptions
+slot.srparasites_traps.relocator_search=Поместите маркер области, который определит область поиска врагов для перемещения.
+slot.srparasites_traps.relocator_destination=Поместите маркер области, чтобы указать релокатору все допустимые позиции, куда можно переместить захваченного врага.
+slot.srparasites_traps.biomass_factory_fluid_input=Поместите контейнер для извлечения хранящейся жидкости.
+
+# Entities
+entity.sentry_turret_spineball.name=Шипованный шар
+entity.sentry_turret.name=Сторожевая турель
+entity.relocator.name=Релокатор
